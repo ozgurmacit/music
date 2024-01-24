@@ -85,7 +85,8 @@
 - [Rising](https://open.spotify.com/album/3uIT4I4Dy7Pq1j0aSjzPW9?si=1MrXC7JvSqmSSW98zpyBNg) - [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m?si=JxjxyTQ9RCS7seDIPD7OUw)
 # 1977
 - [Animals](https://open.spotify.com/album/21jUB9RqplD6OqtsTjKBnO?si=4L7BzXdwRsSfHq4tdxHm0Q) -  [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9?si=y8CWJZgWRHeDzaj914UzMA)
-- [Hard Again](https://open.spotify.com/album/0RO5zmOTUjJBl5tELNJjLL?si=46EZ9XAMQtqzeTwBz3mQrw) - [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R?si=Zc55rHeARpC608Fy4ScYqA) #favorite 
+- [Hard Again](https://open.spotify.com/album/0RO5zmOTUjJBl5tELNJjLL?si=46EZ9XAMQtqzeTwBz3mQrw) - [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R?si=Zc55rHeARpC608Fy4ScYqA) #favorite
+- [Let There Be Rock](https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa?si=joIkqSLYQYC6UNd7mF_mjw) -  [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un?si=_-rUeFn3TgO-uOKC2Spw2Q)
 - [Lust for Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz?si=eK7KPyYaQ_meoBxOP7VdMw) - [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4?si=GeZ0XaiQTpSVp6TzRFRfvw)
 - [Son Aşkımı Canlandıran](https://open.spotify.com/album/48Xi0V0pvsx4VbK0G1pJav?si=IJgutRG6QluZa0Ld0qD6NA) - [Müzeyyen Senar](https://open.spotify.com/artist/7qMU11EGOWoOFrHlrHpbLd?si=gcq1ZKsGRQSEG20i9uUQNQ)
 - [Street Survivors](https://open.spotify.com/album/5sG6jJxaUEt2sAjP4HzELy?si=SfJenDIvTGSWH0ZJtnnuGQ) - [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0?si=nwPqTc0yQT-96ouxIzQZCA)
