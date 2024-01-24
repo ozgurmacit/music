@@ -1,5 +1,4 @@
 - [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un?si=_-rUeFn3TgO-uOKC2Spw2Q)
-- [Ahmet Güvenç](https://open.spotify.com/artist/1lAX52AuvWWi87b4oUEKGb?si=lBiU0DchTnWRUtzjtthfgg)
 - [Ahmet Kaya](https://open.spotify.com/artist/1Y2FwScblyMxpLTrNdfwyU?si=ejXpHTknTh-Tx4-kySC3_Q)
 - [Alanis Morisette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi?si=YSdlHvs5TyqBMT6NfgXeFA)
 - [Altın Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT?si=_UGUb2RoQt2KO6GrzoSaiw)
