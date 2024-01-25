@@ -280,7 +280,8 @@
 - [Sokak Kızı](https://open.spotify.com/album/47s5WCT4sW4htJI3HU3tYv?si=nw55PUOvQ_aFozLHVaq1Iw) - [Nazan Öncel](https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP?si=LlnG4ImqRjiBZf67SOXR0A)
 - [Tata 2](https://open.spotify.com/album/72vBD7jwfltuuJMUowQybc?si=K-1U3NMBRS-yhjGy8TILTg) - [Kult](https://open.spotify.com/artist/3QrpmDKMmvcSUTHH8xED93?si=-TvumGRQTEKtRyx0YuYrEg)
 - [The Dark Saga](https://open.spotify.com/album/0bGhZHGL1hrkLSn354mB8W?si=RchC1w8YQbeSw_bR0zQjsA) - [Iced Earth](https://open.spotify.com/artist/3KEixcRfBS5K3E91Vn1Kdy?si=HJoPA6nCS_CQaPUiu_lROQ)
-- [Yangın Yeri](https://open.spotify.com/album/2nzAZbnwv6aeaVrintTDI5?si=I4_D16mpRMyzkrvDSjDTzQ) - [Zülfü Livaneli](https://open.spotify.com/artist/3ZV2kReDeCXgw0RJaPV5wX?si=0VJDYSS8SUiOx1fuCNUMqg) #favorite 
+- [Yangın Yeri](https://open.spotify.com/album/2nzAZbnwv6aeaVrintTDI5?si=I4_D16mpRMyzkrvDSjDTzQ) - [Zülfü Livaneli](https://open.spotify.com/artist/3ZV2kReDeCXgw0RJaPV5wX?si=0VJDYSS8SUiOx1fuCNUMqg) #favorite
+- [Yıldızlar ve Yakamoz](https://open.spotify.com/album/0uESCKuRsQ2qzuzXV2FP9T?si=IrRF2jN8Q9C1ufBB3pJghg) - [Ahmet Kaya](https://open.spotify.com/artist/1Y2FwScblyMxpLTrNdfwyU?si=ejXpHTknTh-Tx4-kySC3_Q) 
 # 1997
 - [" ilk..."](https://open.spotify.com/album/1kqpjWc4B5MLRltt5Bd3Tv?si=F2p0fMZoS5C1g4s0XgFSDg) - [Yavuz Çetin](https://open.spotify.com/artist/4inwzuD2iBZK8Ck3ft7Wlk?si=4E6GS3wbRtiAHJdjTfhUHg)
 - [Anatolia](https://open.spotify.com/album/2xarsx4CGaLxXMdPOBdo80?si=YbflzpzYTw26zgQjOvQXNA) - [Pentagram](https://open.spotify.com/artist/1Xz8iP9Dvl5uI88iraOhs7?si=118663HGSfSFLUJ-Nq_Hug) #favorite 
