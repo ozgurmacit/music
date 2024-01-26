@@ -117,6 +117,7 @@
 - [The Game](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67?si=7dIHzoynRoKOBXztpVbNDA) - [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d?si=Gxt5lmOsSCGFBM8RQjvxzg)
 - [The Blues Brothers (Original Soundtrack Recording)](https://open.spotify.com/album/4cO51KBYsdsbmSZleoNEGH?si=8YDaAQyLTiqJvRX9r191-A) - [The Blues Brothers](https://open.spotify.com/artist/1cHFz6lrt7KAsBV8j2Ny1g?si=P5EqgABbTaOKBO3J9XuhjQ) #favorite 
 # 1981
+- [For Those About to Rock](https://open.spotify.com/album/7DUvURQ0wfA1kgG8j99frR?si=rlbh7FA3Qdie_Wt0545Ysw) - [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un?si=_-rUeFn3TgO-uOKC2Spw2Q)
 - [I Love Rock 'n Roll](https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt?si=deuLhBz5TbWoc9HaC6kRXQ) - [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K?si=rXz9HiTOS-2p8lkWVHqP7Q)
 - [Sözüm Meclisten Dışarı](https://open.spotify.com/album/2BaQUSAuG5WAgZZlxOYSOu?si=uyJvS_B_Sc-LJrlu-sHSkg) - [Barış Manço](https://open.spotify.com/artist/3eVuump9qyK0YCQQo4mKbc?si=ylfXcdPjR_umM0S2M13xkQ), [Kurtalan Ekspres](https://open.spotify.com/artist/2O7WjRnnODRpJAzKDtTb0C?si=6s3OSI50SfCpQcf4tCFMSA)
 # 1982
