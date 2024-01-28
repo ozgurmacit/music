@@ -197,6 +197,7 @@
 - [Frizzle Fry](https://open.spotify.com/album/43LIYiCuYXGUbiqs7LYiTQ?si=2BqGYJRfRDmIujkgJMWk3A) - [Primus](https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx?si=CzNODnm9Q2-dmGgjMOA-XQ)
 - [Geldiler](https://open.spotify.com/album/7bRXl48zEaB1PriHgpzZL6?si=4Vr3DXvaRv6BzUNge4mGHA) - [MFÖ](https://open.spotify.com/artist/2jbrqAuwSdvwcMTbtvncND?si=c6RcVAQeQwyKLLUvvaX5Ug)
 - [Küçük bir öykü bu... ](https://open.spotify.com/album/5JQkRhQsbAwgcITMJv3ze7?si=Nedb_J-RRpqYtBwYDm81hA) - [Zuhal Olcay](https://open.spotify.com/artist/6XTIDpYqIA3fUeQM8zA4Ix?si=dkC7gKqWS5OrBXaQ0AGItg)
+- [Resitaller 2](https://open.spotify.com/album/6Junpgy1x5S15ej1gvqdkp?si=5ihIgmU6R0eqe3JAAYD7ww) - [Ahmet Kaya](https://open.spotify.com/artist/1Y2FwScblyMxpLTrNdfwyU?si=ejXpHTknTh-Tx4-kySC3_Q) #live
 - [Tamam Artık](https://open.spotify.com/album/3N3WPmmQ8Mm9Az5G2IASh7?si=v83zBi_HTmunOyKRvdbdYA) - [Erkin Koray](https://open.spotify.com/artist/4o3Nv2BAyoZkyGaRXv4rT3?si=bwV9bY28Qxq1YorkcHVa9g)
 - [The Good Son](https://open.spotify.com/album/5SbAOlKlCsosN6Aalgwt1L?si=BD0iJvPiSDuEmRdmP-fyaw) - [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q?si=TdYgI8SuRXS5HRVnLp85Uw)
 - [The Hit List](https://open.spotify.com/album/2mIFpqxnoM71gHMBKlzZtM?si=VHwUI4d-SnCcp92ervP95g) - [Joan Jett](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K?si=2YjKWgijTp2EvsL6N2SCLQ)
