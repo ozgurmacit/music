@@ -477,6 +477,7 @@
 # 2012
 - [Checkerboard Lounge (Live, Chicago 1981)](https://open.spotify.com/album/0SLzwxGYeOdJYbjxbE9plW?si=_wnpNzwmT2KZBohBwQuRpg) - [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R?si=Zc55rHeARpC608Fy4ScYqA), [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe?si=w-Yx4vTEQ4GAIQLPPcc1DA) #live #favorite 
 - [Dönmez Yol](https://open.spotify.com/album/2OYUQsKSOglrXK0UNyAX8k?si=ZG5Nn4sySQKmdjQ_VJkeqw) - [Erkan Oğur](https://open.spotify.com/artist/7HIccJjwPhWkLVKu0gGJgB?si=40ourCWtQF67d5huCfZ9lQ)
+- [Live at River Plate](https://open.spotify.com/album/4H6JMsvxmh0U7VBYiWiyLa?si=Ej2BoJmoRpurYeDkYuOLXQ) - [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un?si=_-rUeFn3TgO-uOKC2Spw2Q) #live
 - [Lunatic](https://open.spotify.com/album/71C65HI7THrlkpHHa24YJX?si=pljEXQAySd2tVtyAWUJpMw) - [Kongos](https://open.spotify.com/artist/58R5LHkK3vkmEyGUPOR5kS?si=srUwne2ySaic3O9B5JSgVQ)
 - [Sarı](https://open.spotify.com/album/3QODSFL9qfWa8URZF0WUtC?si=difSqPl1QfykPgzCT6SZeA) - [Jehan Barbur](https://open.spotify.com/artist/6PNzOVat5l7NQQC4lqY2Fo?si=tJnyGiuYRUe_inxVABHe8g)
 - [Şimdi ve Sonra](https://open.spotify.com/album/5mIs0ONhlE01drVpxLI0xS?si=bHte3jFbRVKSeGSq9ySoKQ) - [Yeni Türkü](https://open.spotify.com/artist/5Oo6D3FLRpWjgBn0mqfiA3?si=hLLiLmyIQ_edJ1S91fkdiw)
