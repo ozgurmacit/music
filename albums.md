@@ -528,6 +528,8 @@
 - [Kimse Kalmadı](https://open.spotify.com/album/4w2VqXgId2mtBso3SjfeeJ?si=Yfw79AQaSHaxQ1gtYS9-Vg) - [Erkan Oğur](https://open.spotify.com/artist/7HIccJjwPhWkLVKu0gGJgB?si=40ourCWtQF67d5huCfZ9lQ), [Can Çankaya](https://open.spotify.com/artist/1EmJ3hl2cNp635fIBKkZuc?si=aYsymUqiQMCfCaAhzsef9w), [Turgut Alp Bekoğlu](https://open.spotify.com/artist/6HgC52zrEuMhWkWdEmqTso?si=i3GEBWmTTnS0orU83gUSrA), [Matt Hall](https://open.spotify.com/artist/39TiJpqMc1kKQPAYRXoUBL?si=yQ0hbFJ9RkuMrkFctMb9iA)
 - [Terminal Velocity](https://open.spotify.com/album/0ThCSFfHT7zTobzMoDH4vu?si=iTkxwUZ4TTW-WiHKWO6gSA) - [John Petrucci](https://open.spotify.com/artist/4zvIE8a1h7L0IED4r4qKk1?si=cx5OrSPuTHuYquQ99RNrEg) #favorite 
 - [The Best of Tommysongs](https://open.spotify.com/album/6TQi8KKUIRgoMtIx5bsa4k?si=oEIzlOBlRSeZrDE0RH8cJw) - [Tommy Emmanuel](https://open.spotify.com/artist/6HjfVflhYjbu6PSIsFOjwM?si=8V40KCRqSj61U0oCBVzI_g)
+# 2021
+- [Yol](https://open.spotify.com/album/2KWjneqCyMbvEvp7QayR2l?si=p49e5saqQnelLh0fO1my2g) - [Altın Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT?si=_UGUb2RoQt2KO6GrzoSaiw)
 # 2022
 - [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ?si=qyeBD8jIQWmAOYRcTStFWQ) - [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X?si=XkqJNhXpT8O-VOy_verLGA)
 - [Nothing But the Blues](https://open.spotify.com/album/5PGQW0n8n0JDxmpPkAgwIc?si=Wv3coYlTQqGJ_UwHAJ2nSQ) - [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD?si=XmpZNrW-TPuG9abLLp-o_A) #live
