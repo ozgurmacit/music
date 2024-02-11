@@ -150,6 +150,7 @@
 # 1986
 - [Değmesin Yağlı Boya](https://open.spotify.com/album/18ABKgJ95DSV24RNvfxYXJ?si=T3WmLMO6RjCF6PfJTS0xiA) - [Barış Manço](https://open.spotify.com/artist/3eVuump9qyK0YCQQo4mKbc?si=ylfXcdPjR_umM0S2M13xkQ)
 - [Deyişler Semahlar](https://open.spotify.com/album/6nF1bO9Sect3c0eVa6ppR5?si=ax7pimTUTWOVXEkUvGBnEw) - [Arif Sağ](https://open.spotify.com/artist/1Nq4oosKQ4TQScASZpgbz0?si=NS7rbtM_TXa2maGSJXMu8w), [Musa Eroğlu](https://open.spotify.com/artist/295s7rUdwD6adgPiYMRUAM?si=3Z1LApbbSIq5K4BmbUunDw)
+- [Gurbeti Ben Mi Yarattım](https://open.spotify.com/album/2PgJwnEnDk2X8TtCuNaDJv?si=m9vAo0JJR2ujYfQ0XK61AA) - [Arif Sağ](https://open.spotify.com/artist/1Nq4oosKQ4TQScASZpgbz0?si=NS7rbtM_TXa2maGSJXMu8w)
 - [Günebakan](https://open.spotify.com/album/3Vst0ctfdwMcrB7hvpNxLv?si=-ra1jt0LTzmJ49-CgKQzkg) - [Yeni Türkü](https://open.spotify.com/artist/5Oo6D3FLRpWjgBn0mqfiA3?si=hLLiLmyIQ_edJ1S91fkdiw)
 - [In the Army Now](https://open.spotify.com/album/2AkxtR1F8F0kf13A1kZ1lx?si=XLM-7gDWRZayo55JdzSwEw) - [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM?si=pQRwCT-ZSIWU2zi6gyR-xQ)
 - [Master of Puppets](https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21?si=Q_iw9eVVTAuUq55rF1KMUQ) - [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB?si=IPQKzHzyTymNi0chCPiZ6w)
