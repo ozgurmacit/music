@@ -148,6 +148,7 @@
 - [Mavi Mavi](https://open.spotify.com/album/2sWDxDTN2zj3gNJ3eau9ts?si=fUeeRplHQiSZRvdkepbFoA) - [İbrahim Tatlıses](https://open.spotify.com/artist/0gPgE6wLLiPnrakh9WcsdQ?si=tRbaLASDQq-k6mwFZUowHw)
 - [Peki Peki Anladık](https://open.spotify.com/album/73dOoYDB1cPmaKPX9AVAcv?si=srJNx4RsTxGSkv3YzzGhig) - [MFÖ](https://open.spotify.com/artist/2jbrqAuwSdvwcMTbtvncND?si=c6RcVAQeQwyKLLUvvaX5Ug)
 # 1986
+- [Bebek](https://open.spotify.com/album/1ko1ZcC8EiLoDmLDENWvij?si=vyi5Y0NJTCKLkZeYnV-n7w) - [Arif Sağ](https://open.spotify.com/artist/1Nq4oosKQ4TQScASZpgbz0?si=NS7rbtM_TXa2maGSJXMu8w)
 - [Değmesin Yağlı Boya](https://open.spotify.com/album/18ABKgJ95DSV24RNvfxYXJ?si=T3WmLMO6RjCF6PfJTS0xiA) - [Barış Manço](https://open.spotify.com/artist/3eVuump9qyK0YCQQo4mKbc?si=ylfXcdPjR_umM0S2M13xkQ)
 - [Deyişler Semahlar](https://open.spotify.com/album/6nF1bO9Sect3c0eVa6ppR5?si=ax7pimTUTWOVXEkUvGBnEw) - [Arif Sağ](https://open.spotify.com/artist/1Nq4oosKQ4TQScASZpgbz0?si=NS7rbtM_TXa2maGSJXMu8w), [Musa Eroğlu](https://open.spotify.com/artist/295s7rUdwD6adgPiYMRUAM?si=3Z1LApbbSIq5K4BmbUunDw)
 - [Gurbeti Ben Mi Yarattım](https://open.spotify.com/album/2PgJwnEnDk2X8TtCuNaDJv?si=m9vAo0JJR2ujYfQ0XK61AA) - [Arif Sağ](https://open.spotify.com/artist/1Nq4oosKQ4TQScASZpgbz0?si=NS7rbtM_TXa2maGSJXMu8w)
