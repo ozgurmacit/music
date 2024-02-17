@@ -245,6 +245,7 @@
 # 1994
 - [Aacayipsin](https://open.spotify.com/album/06EBiLh3V0q2dOUdXnic7e?si=ZlhvkS5mQPSpNdtVUUm4hw) - [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k?si=UOVgUanJQt2R5_7NAjGLFg)
 - [Awake](https://open.spotify.com/album/4jP59Kwqvy3n09eUe1Cge7?si=kImVZPCuQQaC1AIAx1-GGA) - [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep?si=0HkCv47IQAa7QwcPx2S2Qw)
+- [Bağlama Resitali, Vol. 1](https://open.spotify.com/album/2MZ32W8vsjeQS7fxXlB1Na?si=04a52KTqTQ-wk9BFGIvUnA) - [Arif Sağ](https://open.spotify.com/artist/1Nq4oosKQ4TQScASZpgbz0?si=NS7rbtM_TXa2maGSJXMu8w), [Musa Eroğlu](https://open.spotify.com/artist/295s7rUdwD6adgPiYMRUAM?si=3Z1LApbbSIq5K4BmbUunDw) #favourite
 - [Barabar](https://open.spotify.com/album/79AcbVurkGzPKUDQcVmqtF?si=qDfK6lD8TPmEr39Xp7jS_Q) - [Ruhi Su](https://open.spotify.com/artist/5DmyXzZgwTmnHVsNtlb4bl?si=7E_fCjF-RXOyW_TaxuvQTg)
 - [Bu Şarkılar Adam Olmaz](https://open.spotify.com/album/3cpzDFaoNQwWtOdOxznoGo?si=QWZT4YtQRFOSwVLBTEgsHw) - [Bülent Ortaçgil](https://open.spotify.com/artist/1eY7YyYjc9jGnsHdJka906?si=uBHer_F1R8aAHmawbXCZBg)
 - [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS?si=ICCe_Q9MTSyuFN5DF6pFQw) - [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI?si=liCxAPEXTH-hZHcVmzMezg)
