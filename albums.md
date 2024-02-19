@@ -2,7 +2,9 @@
 - [Singin' the Blues](https://open.spotify.com/album/4J0vnaJ94ayonphraOYND5?si=mhj5fG5jREmOUJqZ44EaSA) - [B.B. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U?si=XVJk1xhWSKmyptoKiSPXgg)
 - [The Wildest Show at Tahoe](https://open.spotify.com/album/4yb8RdbHQQpL4gycKLxx4g?si=fW_2AYe7RwmGydgv-NOaKw) - [Louis Prima](https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW?si=cHJ_H7jKTAGRCAutIckLZQ) with [Keely Smith](https://open.spotify.com/artist/0vQqxnQk1G32RtjSAFq3z1?si=kzjyFKIlRgSwxwjpZF3e-Q) & [Sam Butera and the Witnesses](https://open.spotify.com/artist/70njzKgLbLbWkCPhKEu2oV?si=eXHTyy7vR5mfnlXo8NIwSw) 
 # 1959
-- [Berry Is on Top](https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL?si=DGqLfSMvQt-6d8jad78wGw) - [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR?si=zPSW2u91R4SHKqcMEGcMvw) 
+- [Berry Is on Top](https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL?si=DGqLfSMvQt-6d8jad78wGw) - [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR?si=zPSW2u91R4SHKqcMEGcMvw)
+# 1961
+- [My Kind of Blues](https://open.spotify.com/album/7kNeq4xNzhFeHF9ZMnt6ka?si=9aRYcWsNT8Gs2A9CHkCDRw) - [B.B. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U?si=XVJk1xhWSKmyptoKiSPXgg)
 # 1963
 - [The Pink Panther (Music from the Film Score)](https://open.spotify.com/album/4fEGGDaDNDLvXPylhbJdBy?si=bYwNBTwJSQWI_a331J1Z0A) - Composed and Conducted by [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf?si=G25gaW-BTZau2jXNoaUQdQ) #soundtrack
 # 1964
