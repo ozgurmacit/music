@@ -539,6 +539,7 @@
 - [Yol](https://open.spotify.com/album/2KWjneqCyMbvEvp7QayR2l?si=p49e5saqQnelLh0fO1my2g) - [Altın Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT?si=_UGUb2RoQt2KO6GrzoSaiw)
 # 2022
 - [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ?si=qyeBD8jIQWmAOYRcTStFWQ) - [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X?si=XkqJNhXpT8O-VOy_verLGA)
+- [Electric Anatolia](https://open.spotify.com/album/5urWp4F977vAYt1ySpD9nI?si=H7VZs4gySzWVuHTpiMXoUA) - [Arif Sağ](https://open.spotify.com/artist/1Nq4oosKQ4TQScASZpgbz0?si=NS7rbtM_TXa2maGSJXMu8w)
 - [Nothing But the Blues](https://open.spotify.com/album/5PGQW0n8n0JDxmpPkAgwIc?si=Wv3coYlTQqGJ_UwHAJ2nSQ) - [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD?si=XmpZNrW-TPuG9abLLp-o_A) #live
 - [Sunrise on Slaughter Beach](https://open.spotify.com/album/5lkudVwkT6k6tax648AT3c?si=yEnR8RnlS5iF6YKjM0J8Bg) - [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ?si=PpZxe5QtRRitf6VsiukfDw)
 - [Unlimited Love](https://open.spotify.com/album/2ITVvrNiINKRiW7wA3w6w6?si=cszULNuYR4mxFXHM5gLUOQ) - [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5?si=dT6XrmMiSs-pR3NWvaElhA)
