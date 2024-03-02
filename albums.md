@@ -39,6 +39,7 @@
 - [Atom Heart Mother](https://open.spotify.com/album/5c1ZTzT4oSkiiFS4wmEuOe?si=1tIYIO6YSRqoB5yU4wCuDA) - [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9?si=y8CWJZgWRHeDzaj914UzMA) #favorite 
 - [Black Sabbath](https://open.spotify.com/album/2T6jeELx5BqH4GMLObBy10?si=lVdjFT83T7qwqZgSFdve1g) - [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ?si=hswQBlq5S_uAL-xH1XvVQ) #favorite 
 - [Deep Purple in Rock](https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ?si=QQ5nm-vYQvC2bZT2Wt-aVQ) - [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf?si=AnfTqK6PQwmNPA4eRDsWQQ)
+- [Indianola Mississippi Seeds](https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l?si=H6EcbgtbSGGeuhfuxHDxMQ) - [B.B. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U?si=XVJk1xhWSKmyptoKiSPXgg)
 - [John Lennon / Plastic Ono Band](https://open.spotify.com/album/0DFYbYCcHCEJPcN1hODG6K?si=-Kj0oBEPSAu2bHpAyZ8ZEA) - [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H?si=qgRHEGROQ-mi4_FfZxejLA)
 - [Led Zeppelin III](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut?si=dgMCucSoRSGLRPaHOBgWrw) - [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp?si=08L0Qp09TAOsJeakhzkgDQ)
 - [Live](https://open.spotify.com/album/6wp4pcyec1beOkGXJERKse?si=m9qZG8qpSsOQhqhDQa8_xA) - [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m?si=jWOijGaoQyWMIoC8B3AINw) #live 
