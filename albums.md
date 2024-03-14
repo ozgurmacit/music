@@ -315,6 +315,7 @@
 - [Follow the Leader](https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4?si=lcgHxMnJROC0yU4muNAWvQ) - [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD?si=F9SDOsI8RqinerL5exJKbA) #favorite 
 - [Garage Inc.](https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF?si=MkX53QMNTJ6kPZBDwCLmkg) - [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB?si=IPQKzHzyTymNi0chCPiZ6w)
 - [Gülün Kokusu Vardı](https://open.spotify.com/album/7M4BYIp7Og6Lk5qJJUwkdE?si=NhwoP30GR_SFuiLgYTLLTA) - [Erkan Oğur](https://open.spotify.com/artist/7HIccJjwPhWkLVKu0gGJgB?si=40ourCWtQF67d5huCfZ9lQ), [İsmail Hakkı Demircioğlu](https://open.spotify.com/artist/1lOYh3p1aeBWsMSZejuVEt?si=d7lBeRF8SdesaH3L7LOBWg) #favorite 
+- [Güneş Bahçesinden Ezgiler](https://open.spotify.com/album/1GQeG2TJEXGceWXXMnEW69?si=3fhy1L9aQrWc5XyQJQCPAQ) - [Bengi Bağlama Üçlüsü](https://open.spotify.com/artist/7ogb4SkT5lFwhPiMa9gGjZ?si=HcQ8CLNORcuyAl_AO5gQ6Q)
 - [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH?si=sOCtgXErR0eUasSQFwb4hg) - [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5?si=mEH2YnSARByb60wRe9kY5Q)
 - [İlla...](https://open.spotify.com/album/0yKWO8lGwdUqFp2D14vdKQ?si=kjsrJnzgRWCdSR35bS1_4Q) - [Leman Sam](https://open.spotify.com/artist/4Y8MfXiMkqE7xnMWqCAn7E?si=2RkkHpUPS8K_U1uoz7mxqg)
 - [İşte Gidiyorum Çeşmi Siyahım](https://open.spotify.com/album/4RtIfgVdOWmmetW7bXUIby?si=ChOznXYxQcav2GZn4PmX7g) - [Aşık Mahzuni Şerif](https://open.spotify.com/artist/4kNfut5xtwFz4AraRDFarT?si=JqaS7gtsS6S7luZxweja5g)
