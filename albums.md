@@ -530,6 +530,7 @@
 - [Hush](https://open.spotify.com/album/3KAu4OtRzdAn62lw4vJnnl?si=PTGC_-PmT0yAG0JC2v_6ww) - [Mircan Kaya](https://open.spotify.com/artist/21Bj5H9sSwheqVpDCKY31y?si=phICdRt0RV6mWy0zS_RDvA)
 - [Kırmızı Gül](https://open.spotify.com/album/2ieBmnQlUyBRG9b3SzdbJU?si=BSfMTgD5Tca9EjzvodB_-Q) - [Mircan Kaya](https://open.spotify.com/artist/21Bj5H9sSwheqVpDCKY31y?si=phICdRt0RV6mWy0zS_RDvA), [Merih Aşkın](https://open.spotify.com/artist/0V2qHmXZuwl5HchfX9Hvqr?si=0w5qRtIWScGfXjtkq10Fhg)
 - [On](https://open.spotify.com/album/6AmmrlB9qABCgBdr8SCLZt?si=iB3KedI2SwOguUcvz5WJ0w) - [Altın Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT?si=_UGUb2RoQt2KO6GrzoSaiw)
+- [Sex, Dope & Cheap Thrills](https://open.spotify.com/album/4N7y4HQ7xtfmLab22gqef1?si=rt_AjpzASVuU-CTTCSelfg) - [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo?si=Ng_CRPmwQ2it89D2UUfiQQ)
 - [The Nature of Love](https://open.spotify.com/album/26YSZkMd0w8qFKmr2mhNrt?si=eOBfP9cwQuW-h4RnaLP8yg) - [Destroy Earth](https://open.spotify.com/artist/68Ay2KFOxnb27Xli4sklhM?si=MbKrXDhGRCe7U8fGafc5_Q)
 # 2019
 - [Maslak Halayı](https://open.spotify.com/album/5TlQYxjIj3Ga04o5DRkpux?si=-TvTa-I0SMCabqy0XpAh2A) - [Ayyuka](https://open.spotify.com/artist/0wVMkLE2htJSq6K3AYMuig?si=_G7fdYR6SAypXAlAWeA9ng)
