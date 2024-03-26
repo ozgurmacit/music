@@ -63,6 +63,7 @@
 - [Stealers Wheel](https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll?si=R3KNl-0bTvq0ub0pSVRzlA) - [Stealers Wheel](https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki?si=VY4VTPDpQ5-mYyqpRKuiCw)
 # 1973
 - [(Pronounced 'Lĕh-'nérd 'Skin-'nérd)](https://open.spotify.com/album/3THuBNp86ScbTXwpTmAbdw?si=aS-kceBJREqMvY8FFUFzzQ) - [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0?si=nwPqTc0yQT-96ouxIzQZCA)
+- [Sabbath Bloody Sabbath](https://open.spotify.com/album/6tjx1ACkf4cYyFuhkyqz2A?si=95tv12u0TbeoIK-P12TKmQ) - [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ?si=hswQBlq5S_uAL-xH1XvVQ)
 - [Soaring](https://open.spotify.com/album/03PfrtPKeVtVeEILSkyORX?si=JNfhslTXQMis1DlAZIn2rQ) - [Don Ellis](https://open.spotify.com/artist/6sPeUcMcOc2n0M7m1qHAer?si=obwCfnLaRl6kam5QjgDSZg)
 - [The Dark Side of the Moon](https://open.spotify.com/album/2WT1pbYjLJciAR26yMebkH?si=xJt4H9XLT5W4xy1fjsqhDw) -  [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9?si=y8CWJZgWRHeDzaj914UzMA)
 - [Tres Hombres](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY?si=Y8Lkcd5RRlWc_LQawIi4OQ) - [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN?si=MDsr48kdSAqUAzdXFsZjJA)
