@@ -82,6 +82,7 @@
 - [Bütün Şarkılarım](https://open.spotify.com/album/39FCB04E48eIIJDvgH6KKl?si=-Ou2WMUVSPurlk_nqqiGVw) - [Tanju Okan](https://open.spotify.com/artist/4cuKvPTMHl5NwNjdukeWYb?si=FUXnVvVdRqi_yHzkha77xw)
 - [Eşkiya Dünyaya Hükümdar Olmaz](https://open.spotify.com/album/4nhineJpDvZCe8P5sOeuSH?si=eXZWqFyIS9WY8BScYKxL6Q) - [Zülfü Livaneli](https://open.spotify.com/artist/3ZV2kReDeCXgw0RJaPV5wX?si=0VJDYSS8SUiOx1fuCNUMqg) #favorite 
 - [Physical Graffiti](https://open.spotify.com/album/4Q7cPyiP8cMIlUEHAqeYfd?si=jkekffb6QG-kA9YxKPGqmw) - [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp?si=08L0Qp09TAOsJeakhzkgDQ)
+- [Sabotage](https://open.spotify.com/album/3VSOzRDe4dNrjcCYEeLz9b?si=bsf99R_UQPCPWyvZgwN-xA) - [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ?si=hswQBlq5S_uAL-xH1XvVQ)
 - [Toys in the Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B?si=9-jm5FM_Qsm7G---umGDJw) - [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH?si=2DOzi6kNRmKe1Gs0qAIhLg)
 - [Wish You Were Here](https://open.spotify.com/album/6uvBKDGlJAYLH5Vy6RQVsc?si=kutxN9mbRtePxxbPYnM5gw) -  [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9?si=y8CWJZgWRHeDzaj914UzMA) #favorite 
 # 1976
