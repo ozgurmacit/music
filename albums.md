@@ -129,6 +129,7 @@
 - [Sözüm Meclisten Dışarı](https://open.spotify.com/album/2BaQUSAuG5WAgZZlxOYSOu?si=uyJvS_B_Sc-LJrlu-sHSkg) - [Barış Manço](https://open.spotify.com/artist/3eVuump9qyK0YCQQo4mKbc?si=ylfXcdPjR_umM0S2M13xkQ), [Kurtalan Ekspres](https://open.spotify.com/artist/2O7WjRnnODRpJAzKDtTb0C?si=6s3OSI50SfCpQcf4tCFMSA)
 # 1982
 - [Eye of the Tiger](https://open.spotify.com/album/1v8q5oFweXG7AH9kjCoMyX?si=3isIL_9MRyKi6hQiAuHtKg) - [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg?si=zTqpKiVHSRSTqSYixzkW4w)
+- [Live Evil](https://open.spotify.com/album/0wbtNucoJzHeQZrcRf3sAU?si=6hoNCcWwTNe24gBpMML98Q) - [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ?si=hswQBlq5S_uAL-xH1XvVQ) #live
 # 1983
 - [Ada](https://open.spotify.com/album/3ho5aWRqSbr5HDINMce2Zh?si=PbjClXSyTsWzdJXXaViyHg) - [Zülfü Livaneli](https://open.spotify.com/artist/3ZV2kReDeCXgw0RJaPV5wX?si=0VJDYSS8SUiOx1fuCNUMqg)
 - [Akdeniz Akdeniz](https://open.spotify.com/album/7DD5DNQmuxX7xbUunLfjso?si=ri6uX_EWR4S7uKACVYEVwg) - [Yeni Türkü](https://open.spotify.com/artist/5Oo6D3FLRpWjgBn0mqfiA3?si=hLLiLmyIQ_edJ1S91fkdiw)
