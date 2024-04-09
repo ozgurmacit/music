@@ -160,6 +160,7 @@
 - [Bebek](https://open.spotify.com/album/1ko1ZcC8EiLoDmLDENWvij?si=vyi5Y0NJTCKLkZeYnV-n7w) - [Arif Sağ](https://open.spotify.com/artist/1Nq4oosKQ4TQScASZpgbz0?si=NS7rbtM_TXa2maGSJXMu8w)
 - [Değmesin Yağlı Boya](https://open.spotify.com/album/18ABKgJ95DSV24RNvfxYXJ?si=T3WmLMO6RjCF6PfJTS0xiA) - [Barış Manço](https://open.spotify.com/artist/3eVuump9qyK0YCQQo4mKbc?si=ylfXcdPjR_umM0S2M13xkQ)
 - [Deyişler Semahlar](https://open.spotify.com/album/6nF1bO9Sect3c0eVa6ppR5?si=ax7pimTUTWOVXEkUvGBnEw) - [Arif Sağ](https://open.spotify.com/artist/1Nq4oosKQ4TQScASZpgbz0?si=NS7rbtM_TXa2maGSJXMu8w), [Musa Eroğlu](https://open.spotify.com/artist/295s7rUdwD6adgPiYMRUAM?si=3Z1LApbbSIq5K4BmbUunDw)
+- [Giganci Tańczą](https://open.spotify.com/album/3YVtkpmk73SxOPgPpmlu4m?si=wyd-rfXxR_iTVqZp2S4xzQ) - [Budka Suflera](https://open.spotify.com/artist/68EJE3Q7SkpKvCUotVVthY?si=LTYd1XEpQROn7W8Y_IzP5Q)
 - [Gurbeti Ben Mi Yarattım](https://open.spotify.com/album/2PgJwnEnDk2X8TtCuNaDJv?si=m9vAo0JJR2ujYfQ0XK61AA) - [Arif Sağ](https://open.spotify.com/artist/1Nq4oosKQ4TQScASZpgbz0?si=NS7rbtM_TXa2maGSJXMu8w)
 - [Günebakan](https://open.spotify.com/album/3Vst0ctfdwMcrB7hvpNxLv?si=-ra1jt0LTzmJ49-CgKQzkg) - [Yeni Türkü](https://open.spotify.com/artist/5Oo6D3FLRpWjgBn0mqfiA3?si=hLLiLmyIQ_edJ1S91fkdiw)
 - [In the Army Now](https://open.spotify.com/album/2AkxtR1F8F0kf13A1kZ1lx?si=XLM-7gDWRZayo55JdzSwEw) - [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM?si=pQRwCT-ZSIWU2zi6gyR-xQ)
