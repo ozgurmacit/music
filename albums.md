@@ -279,6 +279,7 @@
 - [Jagged Little Pill](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA?si=Yr70KHgaQWqw1Z-cMrCm0w) - [Alanis Morisette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi?si=YSdlHvs5TyqBMT6NfgXeFA)
 - [Mirkelam](https://open.spotify.com/album/06NY0Tr8dJyG8bPj2lpMUf?si=I1TCZ7bbSbOgv4ER0K4tPA) - [Mirkelam](https://open.spotify.com/artist/7o8wIiSHxNMlXrtR1OWPH0?si=LqEM-Zb5Rsu0-K_FcgdWGQ)
 - [Music Inspired and Taken from Underground](https://open.spotify.com/album/2xMLHeRDiuzNWIrZt7Q8na?si=VY2gesKnShGDAqpOZOjkBg) - [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS?si=s57HzHMXSCGlmG-ry7Qpxw) #favorite 
+- [Noc](https://open.spotify.com/album/3q1mB8zKAJI4hFHeLpls36?si=mCtv6C0bSRGYuQzkV84xgg) - [Budka Suflera](https://open.spotify.com/artist/68EJE3Q7SkpKvCUotVVthY?si=LTYd1XEpQROn7W8Y_IzP5Q)
 - [Oyun](https://open.spotify.com/album/4w2leeeUh83bqtwhzrEMHk?si=B-spvxy_TLmCgr1l5kPO8g) - [Ezginin Günlüğü](https://open.spotify.com/artist/6WDnC2nx6hEPdtcU2LLGtE?si=UbCUL23JSyiDX9VJQ5T5GA)
 - [Republika Marzeń](https://open.spotify.com/album/2F92yD47h1Duf40OuzScLZ?si=BmtqVjEfQ6GewekZ-xssxQ) - [Republika](https://open.spotify.com/artist/0lUa6o7QrvyJKszdaBnoAH?si=zAl0in_hRMqN5aIz3fZCDQ)
 - [Yadigar](https://open.spotify.com/album/63eAXIKyBd38fJkuwDpP8l?si=twp3UCn3QnS2EO9DZHpY8g) - [Fikret Kızılok](https://open.spotify.com/artist/6RXvZtTyld421VPmJtLqkL?si=V_4nRP9DSuGgjAzAb0Vrwg)
