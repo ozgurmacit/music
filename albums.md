@@ -100,6 +100,7 @@
 - [Street Survivors](https://open.spotify.com/album/5sG6jJxaUEt2sAjP4HzELy?si=SfJenDIvTGSWH0ZJtnnuGQ) - [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0?si=nwPqTc0yQT-96ouxIzQZCA)
 - [The Clash](https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo?si=7Vyi8PJKToGozZXrFY-qwg) - [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS?si=SCcv7KXmQZamjhwaZgOXGg)
 - [The Grand Illusion](https://open.spotify.com/album/6MFIBPVrZjHjP0pPkVF3IU?si=O2PSI5IqQVODyvqT8wESdg) - [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh?si=FOyOxUOkSaWk9FOt4VPJeA)
+- [Yoksulluk Kader Olamaz](https://open.spotify.com/album/6tSB7YGsUDYJ2jnoizQkTP?si=ynhejq_RTYmwwgDSGbcD3Q) - [Cem Karaca](https://open.spotify.com/artist/1lIbZfJvMQRqzhtCQsg5EI?si=q-AdIOj3TPyBCuDoMOd9xw), [Dervişan](https://open.spotify.com/artist/3FFPhZmOPdsIhmCRg8brsh?si=Vhe3MJjPSYKmAzSPFeJXFw)
 - [Yuh Yuh](https://open.spotify.com/album/4MAEnoT3ft1CsDj88aZoTK?si=gXAA8makSRup1VTWFKeHOw) - [Selda Bağcan](https://open.spotify.com/artist/2NGRETzxjeN4b9o3OGY6Yn?si=HZnPim52QMO3eZXtmQB9tg)
 # 1978
 - [Briefcase Full of Blues](https://open.spotify.com/album/7nuZ830tqx4YT8jzJNpU2T?si=wFHKTs9cSummIB-hD-sb7w) - [The Blues Brothers](https://open.spotify.com/artist/1cHFz6lrt7KAsBV8j2Ny1g?si=P5EqgABbTaOKBO3J9XuhjQ)
