@@ -31,6 +31,7 @@
 # 1969
 - [Completely Well](https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1?si=n8VRybupS3yzlSdK_B99Eg) - [B.B. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U?si=XVJk1xhWSKmyptoKiSPXgg)
 - [Crimson & Clover](https://open.spotify.com/album/4EeWoE08deCeVuI3LRgVwH?si=b1OB9s48R3GUfHbQvNgJuQ) - [Tommy James & The Shondells](https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI?si=f8PV2Ed6TFyaX4Csze7c3g)
+- [Deep Purple](https://open.spotify.com/album/4vjBkjJeJByK2swq4DnuPc?si=3iGLSL6cTby2EdtI3_4npw) - [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf?si=AnfTqK6PQwmNPA4eRDsWQQ)
 - [I Got Dem Ol' Kozmic Blues Again Mama!](https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A?si=Bei4mfZ8QIqJrzjJq_Kiyg) - [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC?si=bGVN6XHuSl2w-ZGlK5uoqA)
 - [Led Zeppelin](https://open.spotify.com/album/1J8QW9qsMLx3staWaHpQmU?si=xynB42heQfSS_kI8FGXRag) - [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp?si=08L0Qp09TAOsJeakhzkgDQ) #favorite 
 - [Led Zeppelin II](https://open.spotify.com/album/58MQ0PLijVHePUonQlK76Y?si=qtopLcSaRhWLUtF1hFznIQ) - [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp?si=08L0Qp09TAOsJeakhzkgDQ)
