@@ -91,6 +91,7 @@
 - [2](https://open.spotify.com/album/4cjJewyCdgOTlBrtYKhysm?si=6v2D1fzjS5yMzRa1YDXtHg) - [Haris Alexiou](https://open.spotify.com/artist/4cgCxnsmy9kDcl3oA2BYRY?si=cILEdl2sQoSN8pEXaL-01Q)
 - [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI?si=3k6ytOocSyOXt4cj3o53dw) - [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un?si=_-rUeFn3TgO-uOKC2Spw2Q)
 - [High Voltage](https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq?si=S0jl9QGpSJy6SaJYDwFhHg) - [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un?si=_-rUeFn3TgO-uOKC2Spw2Q) #favorite 
+- [Made In Europe](https://open.spotify.com/album/7hlg6rtIzw56qQbUVkwADH?si=3XdKhISnRk-O_NeyV7RIeA) - [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf?si=AnfTqK6PQwmNPA4eRDsWQQ) #live
 - [Rising](https://open.spotify.com/album/3uIT4I4Dy7Pq1j0aSjzPW9?si=1MrXC7JvSqmSSW98zpyBNg) - [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m?si=JxjxyTQ9RCS7seDIPD7OUw)
 # 1977
 - [Animals](https://open.spotify.com/album/21jUB9RqplD6OqtsTjKBnO?si=4L7BzXdwRsSfHq4tdxHm0Q) -  [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9?si=y8CWJZgWRHeDzaj914UzMA)
