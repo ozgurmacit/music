@@ -560,4 +560,4 @@
 - [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR?si=RbUYz3ohSGC0airusfNj2g) - [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP?si=TLoIqlkHR-q6h9vAY2lD2Q)
 # 2023
 - [Aşk](https://open.spotify.com/album/2WQxlDZhXkzwgdjAyd0o31?si=YHK0UislSH67Bx4Vp6E--w) - [Altın Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT?si=_UGUb2RoQt2KO6GrzoSaiw)
-- [PA Tapes (Live At King's Head Inn, Norfolk, VA, 4/25/93)](https://open.spotify.com/album/1qbODLrkSuYIk3qgZ2Sj71?si=Jo3R5BtjQaWgWpxGHN_KmA) - [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ?si=PpZxe5QtRRitf6VsiukfDw)
+- [PA Tapes (Live At King's Head Inn, Norfolk, VA, 4/25/93)](https://open.spotify.com/album/1qbODLrkSuYIk3qgZ2Sj71?si=Jo3R5BtjQaWgWpxGHN_KmA) - [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ?si=PpZxe5QtRRitf6VsiukfDw) #live
