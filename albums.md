@@ -376,6 +376,7 @@
 - [des Visages des Figures](https://open.spotify.com/album/4vvtMZGxbWEHyOv7MNgrsT?si=qB1bvz53QCqTQWQgu_WG6Q) - [Noir Désir](https://open.spotify.com/artist/4ksCwAPgMi8rkQwwR3nMos?si=1ZX1xopkQdm7GuaNEg2xDg)
 - [Gönülçelen](https://open.spotify.com/album/6FNuIoN5vvqoNsK80yqAuP?si=PgAx3IVeT2W5iLHa292pOA) - [Teoman](https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT?si=sUppkZABR0ShC1ByUXmj1w)
 - [Lateralus](https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T?si=95-JLcgtSn-aw3yWGVK79A) - [Tool](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8?si=OEagEBjMST-aMDYfE5Uawg)
+- [Wollongong, Australia 2001/03/13](https://open.spotify.com/album/0eqJ9B9k3qxVqUlVXdX6Aa?si=SxxToU33RIGCfyecvQD2Kw) - [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf?si=AnfTqK6PQwmNPA4eRDsWQQ) #live
 - [Mutter](https://open.spotify.com/album/1CtTTpKbHU8KbHRB4LmBbv?si=6HLv6fSXQUqmOLI-pZ8ITQ) - [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP?si=TLoIqlkHR-q6h9vAY2lD2Q) #favorite 
 - [Poets and Madmen](https://open.spotify.com/album/1ktLxK67XJPdowr6y4h4xK?si=pqedVwWXSZmq1t5MZYbbqQ) - [Savatage](https://open.spotify.com/artist/3N1B1g6JtIgd6ClRkzD4yT?si=jMGC5SRLRFSEOyiet0q-qg)
 - [Satılık](https://open.spotify.com/album/7Ci9Cu5I6WskhcHxxmOoaD?si=CMo6dUKRSemOysOMm61UUg) - [Yavuz Çetin](https://open.spotify.com/artist/4inwzuD2iBZK8Ck3ft7Wlk?si=4E6GS3wbRtiAHJdjTfhUHg) #favorite 
