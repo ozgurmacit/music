@@ -242,6 +242,7 @@
 - [Tostaky](https://open.spotify.com/album/1fghAcjKqNZlWjdxuHPo5C?si=tst4sC6tS-ek7RJQJTjxHg) - [Noir Désir](https://open.spotify.com/artist/4ksCwAPgMi8rkQwwR3nMos?si=1ZX1xopkQdm7GuaNEg2xDg)
 - [Unplugged](https://open.spotify.com/album/4Q2d9ZNCUgAKywKUd28AWg?si=tAYyJrKBQce7Vk5YcxvP_g) - [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD?si=XmpZNrW-TPuG9abLLp-o_A)
 # 1993
+- [Ciśnienie](https://open.spotify.com/album/6bEVlPKvHR4dpkYTFQRuMI?si=3PwyAfktRhiRsRXD3Ls4Cw) - [Sławek Wierzcholski](https://open.spotify.com/artist/7bWJ5zf6p3rM0ucHZ3BD4y?si=05UQdTQbTZmcOF6TAtG2Qw), [Dżem](https://open.spotify.com/artist/5ADo6yIOeD8LJglejYcuen?si=C_3QaVM7RduZwwMWXyJpzw)
 - [Direniş](https://open.spotify.com/album/3ffR4jvqynj5sw8gzW5IhK?si=NWSXuS0FTy-WANGO3s40eg) - [Arif Sağ](https://open.spotify.com/artist/1Nq4oosKQ4TQScASZpgbz0?si=NS7rbtM_TXa2maGSJXMu8w)
 - [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI?si=-1EjtWyHRi2_CYhjyDFkLA) - [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9?si=cJjZdZhPQ5SCrQ08H7qD4w)
 - [Deli Kızın Türküsü](https://open.spotify.com/album/0lpZJieR70gMzhDbhJX2Tx?si=FIfXFIQzRPOn2mROBEtjGg) - [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd?si=2pm3FKWmRmSHhKWd5im5UA)
