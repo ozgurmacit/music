@@ -360,6 +360,7 @@
 - ["Yeni"](https://open.spotify.com/album/5ZCBVY9QXQQZkIwQaNQ7dI?si=P9a8zssRSv2_-hn_lpY-fw) -[Yeni Türkü](https://open.spotify.com/artist/5Oo6D3FLRpWjgBn0mqfiA3?si=hLLiLmyIQ_edJ1S91fkdiw)
 - [Zooma](https://open.spotify.com/album/1aglZQ7vQFQVTPIvcAhZHH?si=zdNDpfh1TU6ny_z6gw-gMA) - [John Paul Jones](https://open.spotify.com/artist/6RhcZuUOb20IZvR8BbdnJX?si=CuqbJ_2PRPendg6bhixVvw)
 # 2000
+- [Anadolu](https://open.spotify.com/album/30HKKkfomlkuCEyPcd8yEu?si=n29EJNDUQ722UTj7GK7kXw) - [Erdal Erzincan](https://open.spotify.com/artist/0K1A8j2BAJOGSQ39DZQeoR?si=5JzPc1MPTd6ry5O5cOiAQw)
 - [Anadolu Beşik](https://open.spotify.com/album/7CfyBI2X9cry2xrrr078OZ?si=gezTSx5vS0OzuBOgjK-1Xw) - [Erkan Oğur](https://open.spotify.com/artist/7HIccJjwPhWkLVKu0gGJgB?si=40ourCWtQF67d5huCfZ9lQ), [İsmail Hakkı Demircioğlu](https://open.spotify.com/artist/1lOYh3p1aeBWsMSZejuVEt?si=d7lBeRF8SdesaH3L7LOBWg)
 - [Awaking the Centuries](https://open.spotify.com/album/1Y0ZGlpHDxxjxH1qKzd85o?si=Y0i9ogkkSNideSIb3Z4WlQ) - [Haggard](https://open.spotify.com/artist/7wHPtfK57nbFkg3k16BV5O?si=jou-ZfiKR5WqoPzSdAKEXA)
 - [Bergama Gaydası](https://open.spotify.com/album/1dYOPFmjLRzPLskIWsV0dZ?si=y1_7tYLuTDG3xC6M9MlPog) - [Hüsnü Şenlendirici](https://open.spotify.com/artist/3rb0KaOJL3sOZ2MChHR6xF?si=YIuMSpHcTPq6MaCpZa-d7A) & [Laço Tayfa](https://open.spotify.com/artist/0vqpjQw309uTX5cyt2IcxC?si=8soKvIuETjmLHfawrYGGXw)
