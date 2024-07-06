@@ -470,6 +470,7 @@
 # 2008
 - [1987](https://open.spotify.com/album/0iZ7AAXsHIq1KNAxn7fwIq?si=1EtyGxWESvun5RjIxWp5zQ) - [Pentagram](https://open.spotify.com/artist/1Xz8iP9Dvl5uI88iraOhs7?si=118663HGSfSFLUJ-Nq_Hug) #favorite #live
 - [Center Stage](https://open.spotify.com/album/5AUk0GEue5ON8pPIA8a7uF?si=om4yrq7qSEujiiOlFz0czw) - [Tommy Emmanuel](https://open.spotify.com/artist/6HjfVflhYjbu6PSIsFOjwM?si=8V40KCRqSj61U0oCBVzI_g) #live
+- [Giriftar](https://open.spotify.com/album/5H5fAOCrIGEBxrlYz0hKl0?si=8bLN_-OiTmeFXvK8YSn05w) - [Erdal Erzincan](https://open.spotify.com/artist/0K1A8j2BAJOGSQ39DZQeoR?si=5JzPc1MPTd6ry5O5cOiAQw)
 - [I Started Out with Nothin and I Still Got Most of It Left](https://open.spotify.com/album/39xS8gFSSGE8iyMGICg5Yr?si=EKzO1T6GQA-N1BdqYofLpQ) - [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv?si=7s5IHSj8TdaiUHf3gysHFw)
 - [Kulak Misafiri (events in small chambers)](https://open.spotify.com/album/5ABiJ8Rz4bkcrHBdQZHZ3n?si=z0-LV8A1Sn2NS3KWv8gNLg) - [Brenna MacCrimmon](https://open.spotify.com/artist/0zlAVWtDZKoSfDQprOg07y?si=dpeLa0q-R_2gyCVQxbeWcQ) #favorite 
 - [Nowa Ex-Tradycja](https://open.spotify.com/album/4O8IgPTBy0eqVAO4lbg75b?si=46PlGnviRC--H7bVxlWM2g) - [Zywiołak](https://open.spotify.com/artist/3EYuaOf6w8uTG7eM8vpMLH?si=jzzpy-eNSrGtaQbgXylXUQ)
