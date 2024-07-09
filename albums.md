@@ -510,6 +510,7 @@
 - [Şimdi ve Sonra](https://open.spotify.com/album/5mIs0ONhlE01drVpxLI0xS?si=bHte3jFbRVKSeGSq9ySoKQ) - [Yeni Türkü](https://open.spotify.com/artist/5Oo6D3FLRpWjgBn0mqfiA3?si=hLLiLmyIQ_edJ1S91fkdiw)
 # 2013
 - [A Thousand Faces: Act 1](https://open.spotify.com/album/6VDfgYq3UUUKFWfNAC4SXD?si=OPr3AaKESlOvmBIkUi2nMw) - [Beats Antique](https://open.spotify.com/artist/30DZgkaEYdezg2QMrMgrnm?si=fRBAQY3pQIWz2f_Xw2rsSA)
+- [Bağlama Orkestrası](https://open.spotify.com/album/4exINyr4jNNfE3eAg8ZF2v?si=p4evMB-vTcmw0glL2oUlZA) - [Erdal Erzincan](https://open.spotify.com/artist/0K1A8j2BAJOGSQ39DZQeoR?si=5JzPc1MPTd6ry5O5cOiAQw)
 - [Cień Wielkiej Góry (Live)](https://open.spotify.com/album/4xQvrenVlyI0iuzRxLUTyJ?si=R2DmgjysTVCGpnME8AvK6A) - [Budka Suflera](https://open.spotify.com/artist/68EJE3Q7SkpKvCUotVVthY?si=LTYd1XEpQROn7W8Y_IzP5Q) #live 
 - [Darmaduman](https://open.spotify.com/album/6MrE8aTkCV6xuSnVCRJ1Wz?si=0rzU1HB7TOqvvMQ9fGsYHA) - [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh?si=b23YtpUlRQWwyfSRdogssg)
 - [İkinci Cihan](https://open.spotify.com/album/5wus3J8sTuCDqQWZkzDVI0?si=F4tqt2pYRL-JuPrWh3Qfsw) - [Birsen Tezer](https://open.spotify.com/artist/3i5LEBNq1A00tgvcmB97vV?si=cJcyFF_-RoK_ISGuTD2HMA) #favorite 
