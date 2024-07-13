@@ -489,6 +489,7 @@
 - [Arıza](https://open.spotify.com/album/5FXwqfMNaHilleLZ5al2Pl?si=idJL0X0iTXuM3YUoqjCCjg) - [Malt](https://open.spotify.com/artist/4acjV5gpm2vHLWpGvQ77DL?si=d4_XnsTHTl-_0vOdhIaO4Q)
 - [Deleted Scenes from the Cutting Room Floor](https://open.spotify.com/album/7KYgUgJTrsxT4gkHRALi3R?si=cACi8QTdQw-fVcdFWWeIqQ) - [Caro Emerald](https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm?si=p_eHNI3pS8KSO90ppKFLwg)
 - [Hü](https://open.spotify.com/album/73pCCJiwMO9Ag2b8Uopxsv?si=AKhOPFedRI-HGBEhSy-dcw) - [Cem Yıldız](https://open.spotify.com/artist/3SASCp3Mzy7lT50cZn11yr?si=ttPlEgJSSKSt7QltcseHsQ), [Smadj](https://open.spotify.com/artist/2fM80hU021V2LP7ZjY5141?si=4IgWGaeYRoOxgIVIR5gfVw), [Rustam Mahmudzade](https://open.spotify.com/artist/6Blgri2E6BZlIVr4ALmGAZ?si=SD6Q_OjRRCe8iD_sfZLKTA)
+- [Muza](https://open.spotify.com/album/6H6iqn8NnsAmVniHc4T0Et?si=_oD12vMqSGCZ-_O1OkunFg) - [Dżem](https://open.spotify.com/artist/5ADo6yIOeD8LJglejYcuen?si=C_3QaVM7RduZwwMWXyJpzw)
 - [My Casette Player](https://open.spotify.com/album/59U7vMcBXR5Mo680WLCR4w?si=ugZBk93wQ1mylulVu_aWHg) - [Lena Meyer-Landrut](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL?si=6yIgeBY8SGa1ummsrKYUgw)
 - [Rengârenk](https://open.spotify.com/album/2Olkwck5v3eQcUxFfSV6AI?si=DAEXk_oZS0iyzPtDKgx8Hw) - [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s?si=CJPDyhNIScq2_GkAoe1eBA)
 - [Sahip](https://open.spotify.com/album/5A4c2zueNWTTdsbSI44vxA?si=-IdpqFTZSky99fz7GU68MQ) - [Kurban](https://open.spotify.com/artist/5QpQ8Zu2s3aMjYf88au1Le?si=bVe2VLyUSbuq7OkWKI_OZQ)
