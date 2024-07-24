@@ -523,6 +523,7 @@
 - [A Thousand Faces: Act 2](https://open.spotify.com/album/47QODzpz7pygOrYOPnsxNj?si=Vo1r-FCVT6CDVxO9mSFNiA) - [Beats Antique](https://open.spotify.com/artist/30DZgkaEYdezg2QMrMgrnm?si=fRBAQY3pQIWz2f_Xw2rsSA)
 - [Lazaretto](https://open.spotify.com/album/36LXzRarDP8TU8K0REGpt6?si=ZnhBxLpDQKq_wZ5VcZ78qw) - [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf?si=BRfMr8qUSTOm_EWNaHXzDQ)
 # 2015
+- [35 Urodziny](https://open.spotify.com/album/5D4acjqSRnBIHI3jmvVJYp?si=Dq8U6MNxSQKO674_Z8218w) - [Dżem](https://open.spotify.com/artist/5ADo6yIOeD8LJglejYcuen?si=C_3QaVM7RduZwwMWXyJpzw)
 - [Born to Play Guitar](https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W?si=tjBPbvYxSLiCgqyWjzmKTQ) - [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0?si=JyKaC2uHT6C_mP1TZdPoFw)
 - [Celloverse](https://open.spotify.com/album/5YBY91ePHZWzgsLRrDK8DI?si=V8D3R145QNGcEW3zg9tWkg) - [2Cellos](https://open.spotify.com/artist/6Fi8CHfO8WGtu3yO8c2Mc4?si=R4g3FcLJSQu95Zete2-f0g)
 - [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ?si=mj4tnfXNST6kdhRa3A_nKA) - [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI?si=cFmfQYWNTWepRXNqRVIjCw)
