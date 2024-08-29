@@ -159,6 +159,7 @@
 - [Elemental](https://open.spotify.com/album/0JjzYHx3VDEFgqpHIrkaPp?si=0z1Mgi1bTq20B13fKcx9SQ) - [Loreena McKennitt](https://open.spotify.com/artist/1JdeDdujDbS6ZeSlkXqx3a?si=cgc7ogI0TPibx43UPQ9GAg) #favorite 
 - [Mavi Mavi](https://open.spotify.com/album/2sWDxDTN2zj3gNJ3eau9ts?si=fUeeRplHQiSZRvdkepbFoA) - [İbrahim Tatlıses](https://open.spotify.com/artist/0gPgE6wLLiPnrakh9WcsdQ?si=tRbaLASDQq-k6mwFZUowHw)
 - [Peki Peki Anladık](https://open.spotify.com/album/73dOoYDB1cPmaKPX9AVAcv?si=srJNx4RsTxGSkv3YzzGhig) - [MFÖ](https://open.spotify.com/artist/2jbrqAuwSdvwcMTbtvncND?si=c6RcVAQeQwyKLLUvvaX5Ug)
+- [Seni Düşünmek](https://open.spotify.com/album/75ciTAso7xgc1SMPW4MEgB?si=AHGE-hxsT8CRL1kCXJ_lnw) - [Ezginin Günlüğü](https://open.spotify.com/artist/6WDnC2nx6hEPdtcU2LLGtE?si=UbCUL23JSyiDX9VJQ5T5GA)
 # 1986
 - [Bebek](https://open.spotify.com/album/1ko1ZcC8EiLoDmLDENWvij?si=vyi5Y0NJTCKLkZeYnV-n7w) - [Arif Sağ](https://open.spotify.com/artist/1Nq4oosKQ4TQScASZpgbz0?si=NS7rbtM_TXa2maGSJXMu8w)
 - [Değmesin Yağlı Boya](https://open.spotify.com/album/18ABKgJ95DSV24RNvfxYXJ?si=T3WmLMO6RjCF6PfJTS0xiA) - [Barış Manço](https://open.spotify.com/artist/3eVuump9qyK0YCQQo4mKbc?si=ylfXcdPjR_umM0S2M13xkQ)
