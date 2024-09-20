@@ -355,6 +355,7 @@
 - [Marcanja - e Romeskere Gilya](https://open.spotify.com/album/2myAqAIZerIDtNi5QYtzrr?si=uMpUXl7xS0GXEPssehC6Ew) - [Yıldız İbrahimova](https://open.spotify.com/artist/0gY2lNJ6Lkkul3emjvqU9j?si=euzM88vhR7KJz6Bci8MhUg) #favorite 
 - [MTV Unplugged](https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv?si=quNh7PbJQHulbpDlYQeVkg) - [Alanis Morisette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi?si=YSdlHvs5TyqBMT6NfgXeFA)
 - [Sair Zamanlar](https://open.spotify.com/album/6Gv55xGuDJuDp6p5Sd286K?si=svCN4yfnQX6wu7D9EtX8MQ) - [İstanbul Blues Kumpanyası](https://open.spotify.com/artist/4fjbG5H1T3vTEoo50PB985?si=mzdJqhygS0GgQzni3zijKw)
+- [Seçmeler 1](https://open.spotify.com/album/0ke6uFc8Z163ksQ0EFvlam?si=5UozCwOSRqOaNbdIwpFS_w) - [Fuat Saka](https://open.spotify.com/artist/2nV0oHTtgkrV8rjV82IXei?si=eAFiF4ikRXSzdI2H7liIQQ)
 - [Significant Other](https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP?si=wtTQsh-xS_iVQ3Hu25T8oQ) - [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb?si=04dIqtonSlqfJYXeTa0_SA)
 - [Tell Me Trabizon](https://open.spotify.com/album/4NOf6hn4S0EFmc6VRgebto?si=RZoFngEORQKYUKB5hoUzdQ) - [Senem Diyici Quartet](https://open.spotify.com/artist/4mxAViZBVTkNxvTRGHiRqY?si=doTE7SBZQ2-ywiATQfBmcg)
 - [The Battle of Los Angeles](https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX?si=JUokCKsjRHeek1VP-Nfjmw) - [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj?si=JqqKGb2iTP6iua2MS2cpKA)
