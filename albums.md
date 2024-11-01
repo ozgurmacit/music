@@ -121,7 +121,8 @@
 # 1980
 - [Back in Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh?si=UppOQ9sKR0qZz70SaWS4Iw) - [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un?si=_-rUeFn3TgO-uOKC2Spw2Q)
 - [Drummer of Two Worlds](https://open.spotify.com/album/51YWVuxLwnSewUKjxHh3Kf?si=5y_fgTayTz6vxyUn7iz4Gg) - [Okay Temiz](https://open.spotify.com/artist/6yajM6C42NTolTtmV0q2cq?si=r6Zl26GHSu6GMU5T3Ki8pQ)
-- [Günlerimiz](https://open.spotify.com/album/1Hbz0o2FAi5LD2kaGnmTav?si=ie3WfNSgReGFAdEbbOj4yQ) - [Zülfü Livaneli](https://open.spotify.com/artist/3ZV2kReDeCXgw0RJaPV5wX?si=0VJDYSS8SUiOx1fuCNUMqg) #favorite 
+- [Günlerimiz](https://open.spotify.com/album/1Hbz0o2FAi5LD2kaGnmTav?si=ie3WfNSgReGFAdEbbOj4yQ) - [Zülfü Livaneli](https://open.spotify.com/artist/3ZV2kReDeCXgw0RJaPV5wX?si=0VJDYSS8SUiOx1fuCNUMqg) #favorite
+- [Iron Maiden](https://open.spotify.com/album/3DNeMApEMCo4IDXNMYnlFi?si=zUIUR-yqSeOVhd9cYRxGCQ) - [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao?si=yW9ZnC7uTdGQvdwc5hItFw)
 - [Joan Jett](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep?si=lCPA4RlQQ5iuqmvn06XxPQ) - [Joan Jett](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K?si=2YjKWgijTp2EvsL6N2SCLQ)
 - [Made in America](https://open.spotify.com/album/195FcFytL0rgbdCHOltD7a?si=mXso_OYDRja_Iy6IXkRXAg) - [The Blues Brothers](https://open.spotify.com/artist/1cHFz6lrt7KAsBV8j2Ny1g?si=P5EqgABbTaOKBO3J9XuhjQ)
 - [Making Movies](https://open.spotify.com/album/3wvclpO3LJmpSQGQ9gBa2a?si=vu-5CuxaRS2MAc1DVGFrNg) - [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T?si=PnL8z3zGQcms50QC8t7TCw)
