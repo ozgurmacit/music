@@ -288,6 +288,7 @@
 - [Noc](https://open.spotify.com/album/3q1mB8zKAJI4hFHeLpls36?si=mCtv6C0bSRGYuQzkV84xgg) - [Budka Suflera](https://open.spotify.com/artist/68EJE3Q7SkpKvCUotVVthY?si=LTYd1XEpQROn7W8Y_IzP5Q)
 - [Oyun](https://open.spotify.com/album/4w2leeeUh83bqtwhzrEMHk?si=B-spvxy_TLmCgr1l5kPO8g) - [Ezginin Günlüğü](https://open.spotify.com/artist/6WDnC2nx6hEPdtcU2LLGtE?si=UbCUL23JSyiDX9VJQ5T5GA)
 - [Republika Marzeń](https://open.spotify.com/album/2F92yD47h1Duf40OuzScLZ?si=BmtqVjEfQ6GewekZ-xssxQ) - [Republika](https://open.spotify.com/artist/0lUa6o7QrvyJKszdaBnoAH?si=zAl0in_hRMqN5aIz3fZCDQ)
+- [The X Factor](https://open.spotify.com/album/3irqbaStVsDR9IEdg8Cdwz?si=aBu76p4xT16WG8CJSzvW1g) - [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao?si=yW9ZnC7uTdGQvdwc5hItFw)
 - [Yadigar](https://open.spotify.com/album/63eAXIKyBd38fJkuwDpP8l?si=twp3UCn3QnS2EO9DZHpY8g) - [Fikret Kızılok](https://open.spotify.com/artist/6RXvZtTyld421VPmJtLqkL?si=V_4nRP9DSuGgjAzAb0Vrwg)
 # 1996
 - [Ænima](https://open.spotify.com/album/6yWMN087PgSimbcVmHLEwG?si=-EZWzbw1TWG5ytVWz-i4zw) - [Tool](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8?si=OEagEBjMST-aMDYfE5Uawg)
