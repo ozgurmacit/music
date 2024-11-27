@@ -559,6 +559,7 @@
 # 2019
 - [Maslak Halayı](https://open.spotify.com/album/5TlQYxjIj3Ga04o5DRkpux?si=-TvTa-I0SMCabqy0XpAh2A) - [Ayyuka](https://open.spotify.com/artist/0wVMkLE2htJSq6K3AYMuig?si=_G7fdYR6SAypXAlAWeA9ng)
 - [Nefes](https://open.spotify.com/album/1Xn3LfRlqM8NFAFeH8DfLr?si=4aKZmvYWRc21mZ7d8fGcTQ) - [Jülide Özçelik](https://open.spotify.com/artist/6pGwxFTe6ONT92Rb7v5wx2?si=yjMXEwMhRsub3BuSjQDJBw)
+- [Ürkerek Söylerim](https://open.spotify.com/album/2I8Lj9M7eMYs7byKUzre1W?si=ZYTX2NYpQbuEy8mlPz78VQ) - [Jehan Barbur](https://open.spotify.com/artist/6PNzOVat5l7NQQC4lqY2Fo?si=tJnyGiuYRUe_inxVABHe8g)
 # 2020
 - [Kimse Kalmadı](https://open.spotify.com/album/4w2VqXgId2mtBso3SjfeeJ?si=Yfw79AQaSHaxQ1gtYS9-Vg) - [Erkan Oğur](https://open.spotify.com/artist/7HIccJjwPhWkLVKu0gGJgB?si=40ourCWtQF67d5huCfZ9lQ), [Can Çankaya](https://open.spotify.com/artist/1EmJ3hl2cNp635fIBKkZuc?si=aYsymUqiQMCfCaAhzsef9w), [Turgut Alp Bekoğlu](https://open.spotify.com/artist/6HgC52zrEuMhWkWdEmqTso?si=i3GEBWmTTnS0orU83gUSrA), [Matt Hall](https://open.spotify.com/artist/39TiJpqMc1kKQPAYRXoUBL?si=yQ0hbFJ9RkuMrkFctMb9iA)
 - [Terminal Velocity](https://open.spotify.com/album/0ThCSFfHT7zTobzMoDH4vu?si=iTkxwUZ4TTW-WiHKWO6gSA) - [John Petrucci](https://open.spotify.com/artist/4zvIE8a1h7L0IED4r4qKk1?si=cx5OrSPuTHuYquQ99RNrEg) #favorite 
