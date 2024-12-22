@@ -179,6 +179,7 @@
 - [Gökyüzü Herkesindir](https://open.spotify.com/album/7pY7KC5Tl3m1RpyxA4WY5D?si=GZEuI4AoTQCMJu7-4wFiPg) - [Zülfü Livaneli](https://open.spotify.com/artist/3ZV2kReDeCXgw0RJaPV5wX?si=0VJDYSS8SUiOx1fuCNUMqg) #favorite 
 - [İkinci Bahar](https://open.spotify.com/album/3YIK7W00axzhIdArIVqiVE?si=wae2ZPAdQCqWmMf-C8briA) - [Özdemir Erdoğan](https://open.spotify.com/artist/691svprNZf0oJTi1L0eYy6?si=X8S0Aj7YTrip9kuSEbW65w)
 - [Kick](https://open.spotify.com/album/6p6RTnoHCJMnMx2jcK4oGu?si=b-0yx9uRR5aEG3gJYhe92Q) - [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv?si=HJbJNBmISUS81vr6g97VMQ)
+- [Kult](https://open.spotify.com/album/7a8sdaDePrhJa6T5akSCa7?si=0lfzIRbiSxu29z5G9K7VUQ) - [Kult](https://open.spotify.com/artist/3QrpmDKMmvcSUTHH8xED93?si=-TvumGRQTEKtRyx0YuYrEg)
 - [Merhaba Gençler ve Her Zaman Genç Kalanlar](https://open.spotify.com/album/1GmUZSBXGMA9lR1vPSCsZF?si=7Z-jBDORQ7C3pRsDQsGcvA) - [Cem Karaca](https://open.spotify.com/artist/1lIbZfJvMQRqzhtCQsg5EI?si=q-AdIOj3TPyBCuDoMOd9xw) #favorite 
 - [Nothing Like the Sun](https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R?si=ZyGfFW9CTr6IkiTC8UhSKA) - [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk?si=Q4ZgGzxzTBqgj4hEFVanWA)
 - [Posłuchaj To Do Ciebie](https://open.spotify.com/album/1aeNPtcRju5nXhQZYGYzdn?si=0nPFs4ASQhi_gkQU8W9LcQ) - [Kult](https://open.spotify.com/artist/3QrpmDKMmvcSUTHH8xED93?si=-TvumGRQTEKtRyx0YuYrEg)
