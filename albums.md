@@ -181,6 +181,7 @@
 - [Kick](https://open.spotify.com/album/6p6RTnoHCJMnMx2jcK4oGu?si=b-0yx9uRR5aEG3gJYhe92Q) - [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv?si=HJbJNBmISUS81vr6g97VMQ)
 - [Merhaba Gençler ve Her Zaman Genç Kalanlar](https://open.spotify.com/album/1GmUZSBXGMA9lR1vPSCsZF?si=7Z-jBDORQ7C3pRsDQsGcvA) - [Cem Karaca](https://open.spotify.com/artist/1lIbZfJvMQRqzhtCQsg5EI?si=q-AdIOj3TPyBCuDoMOd9xw) #favorite 
 - [Nothing Like the Sun](https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R?si=ZyGfFW9CTr6IkiTC8UhSKA) - [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk?si=Q4ZgGzxzTBqgj4hEFVanWA)
+- [Posłuchaj To Do Ciebie](https://open.spotify.com/album/1aeNPtcRju5nXhQZYGYzdn?si=0nPFs4ASQhi_gkQU8W9LcQ) - [Kult](https://open.spotify.com/artist/3QrpmDKMmvcSUTHH8xED93?si=-TvumGRQTEKtRyx0YuYrEg)
 - [Stanley Kubrick's Full Metal Jacket (Original Motion Picture Soundtrack)](https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF?si=D_98cNDPSLuUMAc1sZqpfA) - Various #soundtrack 
 - [The House of Blue Light](https://open.spotify.com/album/3jb80uITBoKioTLmu8cqaC?si=xEyxH5mcRXGo9BiL1MEjiA) - [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf?si=AnfTqK6PQwmNPA4eRDsWQQ)
 - [Yorgun Demokrat](https://open.spotify.com/album/2qomyrkuvwWPYxo2QRQd3d?si=imnC9nQcTraF2vCYBUC2wA) - [Ahmet Kaya](https://open.spotify.com/artist/1Y2FwScblyMxpLTrNdfwyU?si=ejXpHTknTh-Tx4-kySC3_Q)
