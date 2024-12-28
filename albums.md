@@ -341,6 +341,7 @@
 - [Konser (1964 İstanbul Canlı Konseri)](https://open.spotify.com/album/13lCOekO8bFVfO0y0gBBGd?si=gNznXDlBRumWkax2QuarkA) - [Münir Nureddin Selçuk](https://open.spotify.com/artist/34SwvNRArpQFhBMIMWiugN?si=MjnbnFQxS_W6dgIJCLawbw)
 - [Müzeyyen Senar ile "Bir Ömre Bedel"](https://open.spotify.com/album/1KzV5t8SHzZFtbfVZniIrn?si=f6_vx8GtQK2qhf_qczoXOw) - [Müzeyyen Senar](https://open.spotify.com/artist/7qMU11EGOWoOFrHlrHpbLd?si=gcq1ZKsGRQSEG20i9uUQNQ)
 - [Nefesim Nefesine](https://open.spotify.com/album/1VHXi3n1JhEr8PXQeOgP3v?si=mWELVS6jQgGpWQTW0ZBdEQ) - [Zülfü Livaneli](https://open.spotify.com/artist/3ZV2kReDeCXgw0RJaPV5wX?si=0VJDYSS8SUiOx1fuCNUMqg)
+- [Ostateczny Krach Systemu Korporacji](https://open.spotify.com/album/21Ym2UvMVgh2atYF7wVZLs?si=k2KnatxoQVmyguUTUBQPqw) - [Kult](https://open.spotify.com/artist/3QrpmDKMmvcSUTHH8xED93?si=-TvumGRQTEKtRyx0YuYrEg)
 - [Something Wicked This Way Comes](https://open.spotify.com/album/0fd4JVsaEIH2C8O5KYoCYw?si=F5ZOrSM9RGaS1t-hCmz2NA) - [Iced Earth](https://open.spotify.com/artist/3KEixcRfBS5K3E91Vn1Kdy?si=HJoPA6nCS_CQaPUiu_lROQ)
 # 1999
 - [Antipop](https://open.spotify.com/album/3YlphQbnNd5oLZpNkLZLyr?si=w7ucb6n2TkK8lysW-QOwoQ) - [Primus](https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx?si=CzNODnm9Q2-dmGgjMOA-XQ)
