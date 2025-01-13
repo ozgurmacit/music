@@ -508,7 +508,8 @@
 - [Balkanatolia II/Annemden Rumeli Türküleri](https://open.spotify.com/album/65s5doD5U6qzSJ35xsDbqT?si=C32WWD8AS02RvnkFW1fQOA) - [Yıldız İbrahimova](https://open.spotify.com/artist/0gY2lNJ6Lkkul3emjvqU9j?si=euzM88vhR7KJz6Bci8MhUg)
 - [Canlı](https://open.spotify.com/album/2Zru76GSNPzqxCFWYRPIh0?si=LqZcAkmqSFyAZc3GricWuA) - [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh?si=b23YtpUlRQWwyfSRdogssg) #live 
 - [Girbad-i Mihnet](https://open.spotify.com/album/0EKoBVQox0YJ4EmZn6u2Ut?si=Zuf1IJUXS5aKgE15L7EaxA) - [Erdal Erzincan](https://open.spotify.com/artist/0K1A8j2BAJOGSQ39DZQeoR?si=5JzPc1MPTd6ry5O5cOiAQw)
-- [Jazz İstanbul Volume 2](https://open.spotify.com/album/41bBnMJ4x2WczVJXXNjeDw?si=UEoXQyIlSuqkLTzOEi7QgQ) - [Jülide Özçelik](https://open.spotify.com/artist/6pGwxFTe6ONT92Rb7v5wx2?si=yjMXEwMhRsub3BuSjQDJBw) #favorite 
+- [Jazz İstanbul Volume 2](https://open.spotify.com/album/41bBnMJ4x2WczVJXXNjeDw?si=UEoXQyIlSuqkLTzOEi7QgQ) - [Jülide Özçelik](https://open.spotify.com/artist/6pGwxFTe6ONT92Rb7v5wx2?si=yjMXEwMhRsub3BuSjQDJBw) #favorite
+- [Ministry of Kultur](https://open.spotify.com/album/1y1HbXeAlOnHxM8O82hCw3?si=BcPnBfSeSXCmh1XFs1nxIQ) - [Kultur Shock](https://open.spotify.com/artist/375M0kA14wq7ILBObdszNf?si=RPKDMkNcRyuV5lYDElsisw)
 - [Sevda Sitem Götürmez (Anadolu'dan Aşk Türküleri 2)](https://open.spotify.com/album/2PoQQvPi6ebogWZ3KI14Nz?si=WUKD11nwSo66SgJN4_6aag) - [Okan Murat Öztürk](https://open.spotify.com/artist/1fxGZzcaalf3YcB6wd22MY?si=gzA387GiSYe1Ia35sndGVw)
 - [You Can't Teach an Old Dog New Tricks](https://open.spotify.com/album/19NWR3uhtr9uIMIms0alvr?si=VD9I925LR9GyT9k2Nmd4NQ) - [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv?si=7s5IHSj8TdaiUHf3gysHFw)
 # 2012
