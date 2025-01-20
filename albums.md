@@ -93,7 +93,7 @@
 - [High Voltage](https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq?si=S0jl9QGpSJy6SaJYDwFhHg) - [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un?si=_-rUeFn3TgO-uOKC2Spw2Q) #favorite 
 - [Made In Europe](https://open.spotify.com/album/7hlg6rtIzw56qQbUVkwADH?si=3XdKhISnRk-O_NeyV7RIeA) - [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf?si=AnfTqK6PQwmNPA4eRDsWQQ) #live
 - [Rising](https://open.spotify.com/album/3uIT4I4Dy7Pq1j0aSjzPW9?si=1MrXC7JvSqmSSW98zpyBNg) - [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m?si=JxjxyTQ9RCS7seDIPD7OUw)
-- [The Song Remains the Same (The Soundtrack from the Film)](https://open.spotify.com/album/0ui4S0TZghkf1d1Wz0oWpk?si=aacnz7aORqOsbgaxjlRVuA) - [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp?si=08L0Qp09TAOsJeakhzkgDQ)
+- [The Song Remains the Same (The Soundtrack from the Film)](https://open.spotify.com/album/0ui4S0TZghkf1d1Wz0oWpk?si=aacnz7aORqOsbgaxjlRVuA) - [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp?si=08L0Qp09TAOsJeakhzkgDQ) #soundtrack
 # 1977
 - [Animals](https://open.spotify.com/album/21jUB9RqplD6OqtsTjKBnO?si=4L7BzXdwRsSfHq4tdxHm0Q) -  [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9?si=y8CWJZgWRHeDzaj914UzMA)
 - [Hard Again](https://open.spotify.com/album/0RO5zmOTUjJBl5tELNJjLL?si=46EZ9XAMQtqzeTwBz3mQrw) - [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R?si=Zc55rHeARpC608Fy4ScYqA) #favorite
