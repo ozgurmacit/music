@@ -565,6 +565,7 @@
 - [Sex, Dope & Cheap Thrills](https://open.spotify.com/album/4N7y4HQ7xtfmLab22gqef1?si=rt_AjpzASVuU-CTTCSelfg) - [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo?si=Ng_CRPmwQ2it89D2UUfiQQ)
 - [The Nature of Love](https://open.spotify.com/album/26YSZkMd0w8qFKmr2mhNrt?si=eOBfP9cwQuW-h4RnaLP8yg) - [Destroy Earth](https://open.spotify.com/artist/68Ay2KFOxnb27Xli4sklhM?si=MbKrXDhGRCe7U8fGafc5_Q)
 # 2019
+- [Helping Hands... Live & Acoustic at the Masonic](https://open.spotify.com/album/5tEW32iyrRuYPQQ4bwUiCf?si=8O_tBqepT6SVLpAWw5zyqw) - [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB?si=IPQKzHzyTymNi0chCPiZ6w) #live
 - [Maslak Halayı](https://open.spotify.com/album/5TlQYxjIj3Ga04o5DRkpux?si=-TvTa-I0SMCabqy0XpAh2A) - [Ayyuka](https://open.spotify.com/artist/0wVMkLE2htJSq6K3AYMuig?si=_G7fdYR6SAypXAlAWeA9ng)
 - [Nefes](https://open.spotify.com/album/1Xn3LfRlqM8NFAFeH8DfLr?si=4aKZmvYWRc21mZ7d8fGcTQ) - [Jülide Özçelik](https://open.spotify.com/artist/6pGwxFTe6ONT92Rb7v5wx2?si=yjMXEwMhRsub3BuSjQDJBw)
 - [Ürkerek Söylerim](https://open.spotify.com/album/2I8Lj9M7eMYs7byKUzre1W?si=ZYTX2NYpQbuEy8mlPz78VQ) - [Jehan Barbur](https://open.spotify.com/artist/6PNzOVat5l7NQQC4lqY2Fo?si=tJnyGiuYRUe_inxVABHe8g)
