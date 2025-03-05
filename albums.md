@@ -486,6 +486,7 @@
 - [I Started Out with Nothin and I Still Got Most of It Left](https://open.spotify.com/album/39xS8gFSSGE8iyMGICg5Yr?si=EKzO1T6GQA-N1BdqYofLpQ) - [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv?si=7s5IHSj8TdaiUHf3gysHFw)
 - [Kulak Misafiri (events in small chambers)](https://open.spotify.com/album/5ABiJ8Rz4bkcrHBdQZHZ3n?si=z0-LV8A1Sn2NS3KWv8gNLg) - [Brenna MacCrimmon](https://open.spotify.com/artist/0zlAVWtDZKoSfDQprOg07y?si=dpeLa0q-R_2gyCVQxbeWcQ) #favorite 
 - [Nowa Ex-Tradycja](https://open.spotify.com/album/4O8IgPTBy0eqVAO4lbg75b?si=46PlGnviRC--H7bVxlWM2g) - [Zywiołak](https://open.spotify.com/artist/3EYuaOf6w8uTG7eM8vpMLH?si=jzzpy-eNSrGtaQbgXylXUQ)
+- [Once Upon a Time in Mingrelia](https://open.spotify.com/album/6wVF0PVd2R8IE3sKsesHKl?si=3zjS_fyWSyO-Sm74e7hmHg) - [Mircan Kaya](https://open.spotify.com/artist/21Bj5H9sSwheqVpDCKY31y?si=phICdRt0RV6mWy0zS_RDvA)
 - [One Kind Favor](https://open.spotify.com/album/3BUPhSVtRzQF10ToSYn1Vw?si=4xmn9FLFQ52e8YpLHxngJA) - [B.B. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U?si=XVJk1xhWSKmyptoKiSPXgg)
 - [Rock'n Coke Konseri](https://open.spotify.com/album/4iVGgsxIUId6Yoe8cx52y7?si=y-_S4g2lRdeB8T5eWmq_4A) - [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh?si=b23YtpUlRQWwyfSRdogssg) #live
 # 2009
