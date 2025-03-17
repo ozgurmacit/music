@@ -82,6 +82,7 @@
 - [A Night at the Opera](https://open.spotify.com/album/1GbtB4zTqAsyfZEsm1RZfx?si=F3DcAniUTDOmq4kRzsrtSA) - [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d?si=Gxt5lmOsSCGFBM8RQjvxzg)
 - [Bütün Şarkılarım](https://open.spotify.com/album/39FCB04E48eIIJDvgH6KKl?si=-Ou2WMUVSPurlk_nqqiGVw) - [Tanju Okan](https://open.spotify.com/artist/4cuKvPTMHl5NwNjdukeWYb?si=FUXnVvVdRqi_yHzkha77xw)
 - [Cień Wielkiej Góry](https://open.spotify.com/album/4xQvrenVlyI0iuzRxLUTyJ?si=d9wmbtiyQ0OOMBvrYOOZWg) - [Budka Suflera](https://open.spotify.com/artist/68EJE3Q7SkpKvCUotVVthY?si=LTYd1XEpQROn7W8Y_IzP5Q)
+- [düm-tek](https://open.spotify.com/album/5y2IZ13TNRgrNQFkU3tniX?si=v2crV2oxRFSHx01NyFdHOg) - [Moğollar](https://open.spotify.com/artist/5dMPhj9s9v91MpdGNpInLy?si=7SGob4-CS1KZB6RpYsVKZw)
 - [Eşkiya Dünyaya Hükümdar Olmaz](https://open.spotify.com/album/4nhineJpDvZCe8P5sOeuSH?si=eXZWqFyIS9WY8BScYKxL6Q) - [Zülfü Livaneli](https://open.spotify.com/artist/3ZV2kReDeCXgw0RJaPV5wX?si=0VJDYSS8SUiOx1fuCNUMqg) #favorite 
 - [Physical Graffiti](https://open.spotify.com/album/4Q7cPyiP8cMIlUEHAqeYfd?si=jkekffb6QG-kA9YxKPGqmw) - [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp?si=08L0Qp09TAOsJeakhzkgDQ)
 - [Sabotage](https://open.spotify.com/album/3VSOzRDe4dNrjcCYEeLz9b?si=bsf99R_UQPCPWyvZgwN-xA) - [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ?si=hswQBlq5S_uAL-xH1XvVQ)
