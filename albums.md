@@ -178,7 +178,8 @@
 - [Vak the Rock](https://open.spotify.com/album/7t9jcpK5jtwaRc8wQ29Vin?si=KuPK3o-nR2WXCaAiD2iYow) - [MFÖ](https://open.spotify.com/artist/2jbrqAuwSdvwcMTbtvncND?si=c6RcVAQeQwyKLLUvvaX5Ug)
 # 1987
 - [Appetite for Destruction](https://open.spotify.com/album/3I9Z1nDCL4E0cP62flcbI5?si=STyW2BBnRBidZ0QWqDoRoQ) - [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC?si=ywhLBZpfThaRpX7ua9sEYw)
-- [Gökyüzü Herkesindir](https://open.spotify.com/album/7pY7KC5Tl3m1RpyxA4WY5D?si=GZEuI4AoTQCMJu7-4wFiPg) - [Zülfü Livaneli](https://open.spotify.com/artist/3ZV2kReDeCXgw0RJaPV5wX?si=0VJDYSS8SUiOx1fuCNUMqg) #favorite 
+- [Gökyüzü Herkesindir](https://open.spotify.com/album/7pY7KC5Tl3m1RpyxA4WY5D?si=GZEuI4AoTQCMJu7-4wFiPg) - [Zülfü Livaneli](https://open.spotify.com/artist/3ZV2kReDeCXgw0RJaPV5wX?si=0VJDYSS8SUiOx1fuCNUMqg) #favorite
+- [Hata Benim](https://open.spotify.com/album/08vldezHokjow286uqjod2?si=aeAzDp1pTE-X8YIN-Q0J2g) - [Neşet Ertaş](https://open.spotify.com/artist/1afML5pJuVr3ye8TGyYcV2?si=hPkZQp8mTziKKb3Q2WVZsA)
 - [İkinci Bahar](https://open.spotify.com/album/3YIK7W00axzhIdArIVqiVE?si=wae2ZPAdQCqWmMf-C8briA) - [Özdemir Erdoğan](https://open.spotify.com/artist/691svprNZf0oJTi1L0eYy6?si=X8S0Aj7YTrip9kuSEbW65w)
 - [Kick](https://open.spotify.com/album/6p6RTnoHCJMnMx2jcK4oGu?si=b-0yx9uRR5aEG3gJYhe92Q) - [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv?si=HJbJNBmISUS81vr6g97VMQ)
 - [Kult](https://open.spotify.com/album/7a8sdaDePrhJa6T5akSCa7?si=0lfzIRbiSxu29z5G9K7VUQ) - [Kult](https://open.spotify.com/artist/3QrpmDKMmvcSUTHH8xED93?si=-TvumGRQTEKtRyx0YuYrEg)
