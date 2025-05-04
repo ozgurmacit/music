@@ -468,6 +468,7 @@
 - [Senin Eserin](https://open.spotify.com/album/1vsN8jE0yZh60dw3iGe1Vw?si=_96cRc9eRtG4JEfVCxpiiw) - [Buz](https://open.spotify.com/artist/2KQZ2eEUK3a6v4uMIsSW8V?si=QguF0JonRkiNt_Ke5e8ezg)
 - [Stadium Arcadium](https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ?si=MBg7kOTuS1mhCs_3w3nfKg) - [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5?si=dT6XrmMiSs-pR3NWvaElhA)
 - [Telvin](https://open.spotify.com/album/2dDlAzPvw5OWrKWktWg8Yh?si=S3QCDr6pQWCSw_QbQgukpA) - [Erkan Oğur](https://open.spotify.com/artist/7HIccJjwPhWkLVKu0gGJgB?si=40ourCWtQF67d5huCfZ9lQ), [İlkin Deniz](https://open.spotify.com/artist/1ve833k9QweOFZVV1T8xmH?si=xTB6rk3BQn-69yqD2CF9Yw), [Turgut Alp Bekoğlu](https://open.spotify.com/artist/6HgC52zrEuMhWkWdEmqTso?si=i3GEBWmTTnS0orU83gUSrA)
+- [Üç](https://open.spotify.com/album/7HtOsVXJ5BG8JqQxFl2woC?si=_sGxAqetS8eIUVoLslPr5Q) - [Ogün Sanlısoy](https://open.spotify.com/artist/6pLClLDuEeB6KdfvPblHSq?si=NR1b3E91S_y841WaheK3oQ)
 - [We Came To Take Your Jobs Away](https://open.spotify.com/album/1sxqzx4vLEXl6bM6uMIg2f?si=YAL4fXfzQiGPnTqr_R_t2A) - [Kultur Shock](https://open.spotify.com/artist/375M0kA14wq7ILBObdszNf?si=RPKDMkNcRyuV5lYDElsisw) #favorite 
 # 2007
 - [10 Mart 2007 İstanbul Konseri](https://open.spotify.com/album/1vnsqCMjk5Eim1shVIvOO4?si=tgrJJTEoTaqz_T2d9cTa5A) - [Şebnem Ferah](https://open.spotify.com/artist/74xBVPWYoSf5pvo5IkePRO?si=_xhxPvQDQva4kqGwpcQwgw) #live 
