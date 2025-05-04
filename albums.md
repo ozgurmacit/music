@@ -537,6 +537,7 @@
 - [Kargalar](https://open.spotify.com/album/1fgfUqumFCLk7hP46LvscE?si=F9CkrsvpSUac66eAfxQE7A) - [Özlem Tekin](https://open.spotify.com/artist/1Xwze1G0zfRnxqBDfmWVVf?si=N7j0gWaTTKWKrsT64ngPfQ) #favorite 
 - [MMXII](https://open.spotify.com/album/4kkWxDC0n1hNt5BNnBvLQh?si=R6n59_gxRK69ociOn5GswA) - [Pentagram](https://open.spotify.com/artist/1Xz8iP9Dvl5uI88iraOhs7?si=118663HGSfSFLUJ-Nq_Hug)
 - [Od](https://open.spotify.com/album/5EELmToanSzyEGwccYcxpB?si=V-iXcZOnQuCTjqbXwaZSBA) - [Şebnem Ferah](https://open.spotify.com/artist/74xBVPWYoSf5pvo5IkePRO?si=_xhxPvQDQva4kqGwpcQwgw)
+- [Push the Sky Away](https://open.spotify.com/album/6CBN58EXbkJ7lIxvmLUxVA?si=zryXWQZYSS2Hcp2meUm9lw) - [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q?si=TdYgI8SuRXS5HRVnLp85Uw)
 # 2014
 - [A Thousand Faces: Act 2](https://open.spotify.com/album/47QODzpz7pygOrYOPnsxNj?si=Vo1r-FCVT6CDVxO9mSFNiA) - [Beats Antique](https://open.spotify.com/artist/30DZgkaEYdezg2QMrMgrnm?si=fRBAQY3pQIWz2f_Xw2rsSA)
 - [Lazaretto](https://open.spotify.com/album/36LXzRarDP8TU8K0REGpt6?si=ZnhBxLpDQKq_wZ5VcZ78qw) - [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf?si=BRfMr8qUSTOm_EWNaHXzDQ)
