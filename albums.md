@@ -119,7 +119,8 @@
 - [Cornerstone](https://open.spotify.com/album/0RhPpU4BvtF44qdvFnGQuh?si=myLBmw_5SIKZnDOko8WmXQ) - [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh?si=FOyOxUOkSaWk9FOt4VPJeA)
 - [Highway to Hell](https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS?si=950dZyuDS6qS9XZKXEAqCA) - [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un?si=_-rUeFn3TgO-uOKC2Spw2Q)
 - [In Through the Out Door](https://open.spotify.com/album/1W5CtQ7Ng0kP3lXyz7PIT2?si=6TJDvirGQk-eH48vi5HX8g) - [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp?si=08L0Qp09TAOsJeakhzkgDQ)
-- [The Wall](https://open.spotify.com/album/6WaIQHxEHtZL0RZ62AuY0g?si=ttATg45VRJSD78CnCNKX6A) -  [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9?si=y8CWJZgWRHeDzaj914UzMA) #favorite 
+- [The Wall](https://open.spotify.com/album/6WaIQHxEHtZL0RZ62AuY0g?si=ttATg45VRJSD78CnCNKX6A) -  [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9?si=y8CWJZgWRHeDzaj914UzMA) #favorite
+- [Zikir](https://open.spotify.com/album/5nPGZZzUGAV9XTGgSrX8Aj?si=3c1_67OoRTyWSIshX_ZPZg) - [Okay Temiz](https://open.spotify.com/artist/6yajM6C42NTolTtmV0q2cq?si=r6Zl26GHSu6GMU5T3Ki8pQ)
 # 1980
 - [Back in Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh?si=UppOQ9sKR0qZz70SaWS4Iw) - [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un?si=_-rUeFn3TgO-uOKC2Spw2Q)
 - [Drummer of Two Worlds](https://open.spotify.com/album/51YWVuxLwnSewUKjxHh3Kf?si=5y_fgTayTz6vxyUn7iz4Gg) - [Okay Temiz](https://open.spotify.com/artist/6yajM6C42NTolTtmV0q2cq?si=r6Zl26GHSu6GMU5T3Ki8pQ)
