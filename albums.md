@@ -220,6 +220,7 @@
 - [Duygular Dönüştü Söze](https://open.spotify.com/album/36EyUt6vqXMklFnAJybepn?si=ehiQGPJCSW2-92_g_zmpIA) - [Arif Sağ](https://open.spotify.com/artist/1Nq4oosKQ4TQScASZpgbz0?si=NS7rbtM_TXa2maGSJXMu8w)
 - [Frizzle Fry](https://open.spotify.com/album/43LIYiCuYXGUbiqs7LYiTQ?si=2BqGYJRfRDmIujkgJMWk3A) - [Primus](https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx?si=CzNODnm9Q2-dmGgjMOA-XQ)
 - [Geldiler](https://open.spotify.com/album/7bRXl48zEaB1PriHgpzZL6?si=4Vr3DXvaRv6BzUNge4mGHA) - [MFÖ](https://open.spotify.com/artist/2jbrqAuwSdvwcMTbtvncND?si=c6RcVAQeQwyKLLUvvaX5Ug)
+- [İstanbul'da Eylül](https://open.spotify.com/album/1OpmRIy8wnHqFRQVrPFy61?si=hskyXN5zSKWUWmy-9dptCQ) - [Okay Temiz](https://open.spotify.com/artist/6yajM6C42NTolTtmV0q2cq?si=r6Zl26GHSu6GMU5T3Ki8pQ), [Sylvain Kassap](https://open.spotify.com/artist/1CFPjWEdCoko5KElWqOJwF?si=yDGHk0ZeTZmtHLL0O6ry9A)
 - [Küçük bir öykü bu... ](https://open.spotify.com/album/5JQkRhQsbAwgcITMJv3ze7?si=Nedb_J-RRpqYtBwYDm81hA) - [Zuhal Olcay](https://open.spotify.com/artist/6XTIDpYqIA3fUeQM8zA4Ix?si=dkC7gKqWS5OrBXaQ0AGItg)
 - [Resitaller 2](https://open.spotify.com/album/6Junpgy1x5S15ej1gvqdkp?si=5ihIgmU6R0eqe3JAAYD7ww) - [Ahmet Kaya](https://open.spotify.com/artist/1Y2FwScblyMxpLTrNdfwyU?si=ejXpHTknTh-Tx4-kySC3_Q) #live
 - [Tamam Artık](https://open.spotify.com/album/3N3WPmmQ8Mm9Az5G2IASh7?si=v83zBi_HTmunOyKRvdbdYA) - [Erkin Koray](https://open.spotify.com/artist/4o3Nv2BAyoZkyGaRXv4rT3?si=bwV9bY28Qxq1YorkcHVa9g)
