@@ -588,6 +588,7 @@
 # 2022
 - [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ?si=qyeBD8jIQWmAOYRcTStFWQ) - [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X?si=XkqJNhXpT8O-VOy_verLGA)
 - [Electric Anatolia](https://open.spotify.com/album/5urWp4F977vAYt1ySpD9nI?si=H7VZs4gySzWVuHTpiMXoUA) - [Arif Sağ](https://open.spotify.com/artist/1Nq4oosKQ4TQScASZpgbz0?si=NS7rbtM_TXa2maGSJXMu8w)
+- [Montreux Jazz Festival 1982](https://open.spotify.com/album/7Mr8GfiFr4Vd7jwRM9vwkA?si=i8kKBrIIQS-iKhlkejdQTw) - [Oriental Wind](https://open.spotify.com/artist/3j3iI4wLaaKWVBCKNxwS7G?si=hdO6d9bNT6S-ubk7pPJ17A) #live
 - [Nothing But the Blues](https://open.spotify.com/album/5PGQW0n8n0JDxmpPkAgwIc?si=Wv3coYlTQqGJ_UwHAJ2nSQ) - [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD?si=XmpZNrW-TPuG9abLLp-o_A) #live
 - [Sunrise on Slaughter Beach](https://open.spotify.com/album/5lkudVwkT6k6tax648AT3c?si=yEnR8RnlS5iF6YKjM0J8Bg) - [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ?si=PpZxe5QtRRitf6VsiukfDw)
 - [Unlimited Love](https://open.spotify.com/album/2ITVvrNiINKRiW7wA3w6w6?si=cszULNuYR4mxFXHM5gLUOQ) - [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5?si=dT6XrmMiSs-pR3NWvaElhA)
