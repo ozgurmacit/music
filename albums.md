@@ -586,6 +586,7 @@
 # 2021
 - [Yol](https://open.spotify.com/album/2KWjneqCyMbvEvp7QayR2l?si=p49e5saqQnelLh0fO1my2g) - [Altın Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT?si=_UGUb2RoQt2KO6GrzoSaiw)
 # 2022
+-  [Akustik Konser](https://open.spotify.com/album/0cyUrm3mTy5nFumSeIQU3I?si=vFT9jl90TUC8TTiIwirtCw) - [Pentagram](https://open.spotify.com/artist/1Xz8iP9Dvl5uI88iraOhs7?si=118663HGSfSFLUJ-Nq_Hug) #live
 - [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ?si=qyeBD8jIQWmAOYRcTStFWQ) - [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X?si=XkqJNhXpT8O-VOy_verLGA)
 - [Electric Anatolia](https://open.spotify.com/album/5urWp4F977vAYt1ySpD9nI?si=H7VZs4gySzWVuHTpiMXoUA) - [Arif Sağ](https://open.spotify.com/artist/1Nq4oosKQ4TQScASZpgbz0?si=NS7rbtM_TXa2maGSJXMu8w)
 - [Montreux Jazz Festival 1982](https://open.spotify.com/album/7Mr8GfiFr4Vd7jwRM9vwkA?si=i8kKBrIIQS-iKhlkejdQTw) - [Oriental Wind](https://open.spotify.com/artist/3j3iI4wLaaKWVBCKNxwS7G?si=hdO6d9bNT6S-ubk7pPJ17A) #live
