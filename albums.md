@@ -101,6 +101,7 @@
 - [Hard Again](https://open.spotify.com/album/0RO5zmOTUjJBl5tELNJjLL?si=46EZ9XAMQtqzeTwBz3mQrw) - [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R?si=Zc55rHeARpC608Fy4ScYqA) #favorite
 - [Let There Be Rock](https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa?si=joIkqSLYQYC6UNd7mF_mjw) -  [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un?si=_-rUeFn3TgO-uOKC2Spw2Q)
 - [Lust for Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz?si=eK7KPyYaQ_meoBxOP7VdMw) - [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4?si=GeZ0XaiQTpSVp6TzRFRfvw)
+- [Oriental Wind](https://open.spotify.com/album/6QGDiweoInWWyUdsqyooa3?si=voyb770DReOZrcLH4fvD4A) - [Okay Temiz](https://open.spotify.com/artist/6yajM6C42NTolTtmV0q2cq?si=r6Zl26GHSu6GMU5T3Ki8pQ), [Oriental Wind](https://open.spotify.com/artist/3j3iI4wLaaKWVBCKNxwS7G?si=hdO6d9bNT6S-ubk7pPJ17A)
 - [Son Aşkımı Canlandıran](https://open.spotify.com/album/48Xi0V0pvsx4VbK0G1pJav?si=IJgutRG6QluZa0Ld0qD6NA) - [Müzeyyen Senar](https://open.spotify.com/artist/7qMU11EGOWoOFrHlrHpbLd?si=gcq1ZKsGRQSEG20i9uUQNQ)
 - [Street Survivors](https://open.spotify.com/album/5sG6jJxaUEt2sAjP4HzELy?si=SfJenDIvTGSWH0ZJtnnuGQ) - [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0?si=nwPqTc0yQT-96ouxIzQZCA)
 - [The Clash](https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo?si=7Vyi8PJKToGozZXrFY-qwg) - [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS?si=SCcv7KXmQZamjhwaZgOXGg)
