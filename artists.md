@@ -84,6 +84,7 @@
 - [Ogün Sanlısoy](https://open.spotify.com/artist/6pLClLDuEeB6KdfvPblHSq?si=NR1b3E91S_y841WaheK3oQ)
 - [Okan Murat Öztürk](https://open.spotify.com/artist/1fxGZzcaalf3YcB6wd22MY?si=gzA387GiSYe1Ia35sndGVw)
 - [Okay Temiz](https://open.spotify.com/artist/6yajM6C42NTolTtmV0q2cq?si=r6Zl26GHSu6GMU5T3Ki8pQ)
+- [Oriental Wind](https://open.spotify.com/artist/3j3iI4wLaaKWVBCKNxwS7G?si=hdO6d9bNT6S-ubk7pPJ17A)
 - [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X?si=XkqJNhXpT8O-VOy_verLGA)
 - [Pavlos Sidiropoulos](https://open.spotify.com/artist/5Z4mEhHsWHyS10omStJ81u?si=xReZ_hFhSN21mxeSE_fAsQ)
 - [Pentagram](https://open.spotify.com/artist/1Xz8iP9Dvl5uI88iraOhs7?si=118663HGSfSFLUJ-Nq_Hug)
