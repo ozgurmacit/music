@@ -159,6 +159,7 @@
 - [Perfect Strangers](https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO?si=MV2gCiuqRXiuEdqEUgn7pQ) - [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf?si=AnfTqK6PQwmNPA4eRDsWQQ)
 - [Ride the Lightning](https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc?si=SuJYPdN_Q2WZZ5EjBRGk3A) - [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB?si=IPQKzHzyTymNi0chCPiZ6w)
 - [Sen Ağlama](https://open.spotify.com/album/13JKU1RyLFS73hDvWnTHr1?si=m_h-YHReTVWSK9LMzkSnCQ) - [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd?si=2pm3FKWmRmSHhKWd5im5UA) #favorite 
+- [The Red Hot Chili Peppers](https://open.spotify.com/album/5QxFTj8ar3blXVyVEo2rxD?si=0Wz4K1iZSwGN4USWEjkMfw) - [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5?si=dT6XrmMiSs-pR3NWvaElhA)
 - [The Works](https://open.spotify.com/album/5RS9xkMuDmeVISqGDBmnSa?si=WF4v4H8jTLO92mNVblQzKw) - [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d?si=Gxt5lmOsSCGFBM8RQjvxzg)
 # 1985
 - [Acılara Tutunmak](https://open.spotify.com/album/62ofRhkWkXXXgglDssskeu?si=CA9xyslMR1-MU8vsOqXo7w) - [Ahmet Kaya](https://open.spotify.com/artist/1Y2FwScblyMxpLTrNdfwyU?si=ejXpHTknTh-Tx4-kySC3_Q)
