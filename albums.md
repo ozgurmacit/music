@@ -496,6 +496,7 @@
 - [Center Stage](https://open.spotify.com/album/5AUk0GEue5ON8pPIA8a7uF?si=om4yrq7qSEujiiOlFz0czw) - [Tommy Emmanuel](https://open.spotify.com/artist/6HjfVflhYjbu6PSIsFOjwM?si=8V40KCRqSj61U0oCBVzI_g) #live
 - [Giriftar](https://open.spotify.com/album/5H5fAOCrIGEBxrlYz0hKl0?si=8bLN_-OiTmeFXvK8YSn05w) - [Erdal Erzincan](https://open.spotify.com/artist/0K1A8j2BAJOGSQ39DZQeoR?si=5JzPc1MPTd6ry5O5cOiAQw)
 - [I Started Out with Nothin and I Still Got Most of It Left](https://open.spotify.com/album/39xS8gFSSGE8iyMGICg5Yr?si=EKzO1T6GQA-N1BdqYofLpQ) - [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv?si=7s5IHSj8TdaiUHf3gysHFw)
+- [İnsanlık Halleri](https://open.spotify.com/album/2zzU67oIVModhOvn8mYHrJ?si=W1xB97xnQ9ecbDn8WSVYfQ) - [Teoman](https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT?si=sUppkZABR0ShC1ByUXmj1w)
 - [Kulak Misafiri (events in small chambers)](https://open.spotify.com/album/5ABiJ8Rz4bkcrHBdQZHZ3n?si=z0-LV8A1Sn2NS3KWv8gNLg) - [Brenna MacCrimmon](https://open.spotify.com/artist/0zlAVWtDZKoSfDQprOg07y?si=dpeLa0q-R_2gyCVQxbeWcQ) #favorite 
 - [Nowa Ex-Tradycja](https://open.spotify.com/album/4O8IgPTBy0eqVAO4lbg75b?si=46PlGnviRC--H7bVxlWM2g) - [Zywiołak](https://open.spotify.com/artist/3EYuaOf6w8uTG7eM8vpMLH?si=jzzpy-eNSrGtaQbgXylXUQ)
 - [Once Upon a Time in Mingrelia](https://open.spotify.com/album/6wVF0PVd2R8IE3sKsesHKl?si=3zjS_fyWSyO-Sm74e7hmHg) - [Mircan Kaya](https://open.spotify.com/artist/21Bj5H9sSwheqVpDCKY31y?si=phICdRt0RV6mWy0zS_RDvA)
