@@ -38,6 +38,7 @@
 - [Middle Eastern Rock](https://open.spotify.com/album/22D0BeQn1cQEp7QbEE7l1z?si=OtA4FTo8R3mtj0SwHeunNw) - [John Berberian](https://open.spotify.com/artist/1EQksYbjhh6dmCmkj8Qvfk?si=TQAU6UJKQcWdhnK-0KZTeQ) and The Rock East Ensemble
 # 1970
 - [Atom Heart Mother](https://open.spotify.com/album/5c1ZTzT4oSkiiFS4wmEuOe?si=1tIYIO6YSRqoB5yU4wCuDA) - [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9?si=y8CWJZgWRHeDzaj914UzMA) #favorite 
+- [Band Of Gypsys](https://open.spotify.com/album/0B0Zwfcy4pAY2JAoxIEkR5?si=XkT_hMREQUWdI58FTcpAig) - [The Jimi Hendrix Experience](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4?si=Y4--5JtaSumRHf1LovcfHw)
 - [Black Sabbath](https://open.spotify.com/album/2T6jeELx5BqH4GMLObBy10?si=lVdjFT83T7qwqZgSFdve1g) - [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ?si=hswQBlq5S_uAL-xH1XvVQ) #favorite 
 - [Deep Purple in Rock](https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ?si=QQ5nm-vYQvC2bZT2Wt-aVQ) - [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf?si=AnfTqK6PQwmNPA4eRDsWQQ)
 - [Indianola Mississippi Seeds](https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l?si=H6EcbgtbSGGeuhfuxHDxMQ) - [B.B. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U?si=XVJk1xhWSKmyptoKiSPXgg)
