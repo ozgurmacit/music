@@ -60,6 +60,7 @@
 - [Teaser and the Firecat](https://open.spotify.com/album/7ez8WRX4sGhKHZryJPJCNg?si=SBit8WbNRC6SVRUxpuhnJQ) - [Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8?si=NJK7D4eiQRKDs1toYSR62g)
 # 1972
 - [Dr. John's Gumbo](https://open.spotify.com/album/15jDv2HgLoilWgd4KWaLQn?si=xMkGDvycThieOjROYU1vvQ) - [Dr. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO?si=e3dy_iw8ROS_MhggyH3awA)
+- [Full Circle](https://open.spotify.com/album/26Fac6kNgB6MLeoGVkmpKN?si=6YpHtQxfQyaFF7IE88yi0w) - [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt?si=FRG4InakQX-G3aWJF3t6Vg)
 - [Keine Macht für Niemand](https://open.spotify.com/album/0X1W7xz2jdfuoGKZgxMR2l?si=fycmCDG1TQeZlNZWhMD9Sw) - [Ton Steine Scherben](https://open.spotify.com/artist/6qt7HAbdjQ4a2B0sYAjySO?si=mf5nwIlHRPqBkv0dqT4xrg)
 - [Machine Head](https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN?si=8QSU7kDxSjKA3UxQqvDtIQ) - [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf?si=AnfTqK6PQwmNPA4eRDsWQQ) #favorite 
 - [Stealers Wheel](https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll?si=R3KNl-0bTvq0ub0pSVRzlA) - [Stealers Wheel](https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki?si=VY4VTPDpQ5-mYyqpRKuiCw)
