@@ -547,6 +547,7 @@
 - [Kargalar](https://open.spotify.com/album/1fgfUqumFCLk7hP46LvscE?si=F9CkrsvpSUac66eAfxQE7A) - [Özlem Tekin](https://open.spotify.com/artist/1Xwze1G0zfRnxqBDfmWVVf?si=N7j0gWaTTKWKrsT64ngPfQ) #favorite 
 - [MMXII](https://open.spotify.com/album/4kkWxDC0n1hNt5BNnBvLQh?si=R6n59_gxRK69ociOn5GswA) - [Pentagram](https://open.spotify.com/artist/1Xz8iP9Dvl5uI88iraOhs7?si=118663HGSfSFLUJ-Nq_Hug)
 - [Od](https://open.spotify.com/album/5EELmToanSzyEGwccYcxpB?si=V-iXcZOnQuCTjqbXwaZSBA) - [Şebnem Ferah](https://open.spotify.com/artist/74xBVPWYoSf5pvo5IkePRO?si=_xhxPvQDQva4kqGwpcQwgw)
+- [People, Hell & Angels](https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf?si=5RQo8In4RfaW-datZup43A) - [The Jimi Hendrix Experience](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4?si=Y4--5JtaSumRHf1LovcfHw)
 - [Push the Sky Away](https://open.spotify.com/album/6CBN58EXbkJ7lIxvmLUxVA?si=zryXWQZYSS2Hcp2meUm9lw) - [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q?si=TdYgI8SuRXS5HRVnLp85Uw)
 # 2014
 - [A Thousand Faces: Act 2](https://open.spotify.com/album/47QODzpz7pygOrYOPnsxNj?si=Vo1r-FCVT6CDVxO9mSFNiA) - [Beats Antique](https://open.spotify.com/artist/30DZgkaEYdezg2QMrMgrnm?si=fRBAQY3pQIWz2f_Xw2rsSA)
