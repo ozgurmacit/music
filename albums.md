@@ -93,6 +93,7 @@
 - [Wish You Were Here](https://open.spotify.com/album/6uvBKDGlJAYLH5Vy6RQVsc?si=kutxN9mbRtePxxbPYnM5gw) -  [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9?si=y8CWJZgWRHeDzaj914UzMA) #favorite 
 # 1976
 - [2](https://open.spotify.com/album/4cjJewyCdgOTlBrtYKhysm?si=6v2D1fzjS5yMzRa1YDXtHg) - [Haris Alexiou](https://open.spotify.com/artist/4cgCxnsmy9kDcl3oA2BYRY?si=cILEdl2sQoSN8pEXaL-01Q)
+- [Black and Blue](https://open.spotify.com/album/54j9aA4jqWxLSETeUEyVnI?si=gU0YRpotS2mVZsbMEOVDPA) - [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe?si=w-Yx4vTEQ4GAIQLPPcc1DA)
 - [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI?si=3k6ytOocSyOXt4cj3o53dw) - [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un?si=_-rUeFn3TgO-uOKC2Spw2Q)
 - [High Voltage](https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq?si=S0jl9QGpSJy6SaJYDwFhHg) - [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un?si=_-rUeFn3TgO-uOKC2Spw2Q) #favorite 
 - [Made In Europe](https://open.spotify.com/album/7hlg6rtIzw56qQbUVkwADH?si=3XdKhISnRk-O_NeyV7RIeA) - [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf?si=AnfTqK6PQwmNPA4eRDsWQQ) #live
