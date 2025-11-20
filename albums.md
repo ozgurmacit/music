@@ -297,6 +297,7 @@
 - [Burnt Offerings](https://open.spotify.com/album/0y89MABNBicWddVTsfX2wI?si=s-YLc69OQgugcPe58PLpig) - [Iced Earth](https://open.spotify.com/artist/3KEixcRfBS5K3E91Vn1Kdy?si=HJoPA6nCS_CQaPUiu_lROQ)
 - [Clutch](https://open.spotify.com/album/5snxt6YTFHrBD8ACd0hPJA?si=Lgq-gX4-Qd2iL8oS8D8qig) - [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ?si=PpZxe5QtRRitf6VsiukfDw)
 - [Evil Empire](https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF?si=1rwKTEf4Rtmk8tR6EV7-yQ) - [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj?si=JqqKGb2iTP6iua2MS2cpKA)
+- [Işığın Sesi](https://open.spotify.com/album/3nIJ4OjF1fuVYeNVpoLFBa?si=roD3FZykQcim0tEVbPDvPQ) - [Yıldız İbrahimova](https://open.spotify.com/artist/0gY2lNJ6Lkkul3emjvqU9j?si=euzM88vhR7KJz6Bci8MhUg)
 - [Jagged Little Pill](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA?si=Yr70KHgaQWqw1Z-cMrCm0w) - [Alanis Morisette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi?si=YSdlHvs5TyqBMT6NfgXeFA)
 - [Mirkelam](https://open.spotify.com/album/06NY0Tr8dJyG8bPj2lpMUf?si=I1TCZ7bbSbOgv4ER0K4tPA) - [Mirkelam](https://open.spotify.com/artist/7o8wIiSHxNMlXrtR1OWPH0?si=LqEM-Zb5Rsu0-K_FcgdWGQ)
 - [Music Inspired and Taken from Underground](https://open.spotify.com/album/2xMLHeRDiuzNWIrZt7Q8na?si=VY2gesKnShGDAqpOZOjkBg) - [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS?si=s57HzHMXSCGlmG-ry7Qpxw) #favorite 
