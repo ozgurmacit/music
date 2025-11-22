@@ -607,5 +607,6 @@
 # 2023
 - [Aşk](https://open.spotify.com/album/2WQxlDZhXkzwgdjAyd0o31?si=YHK0UislSH67Bx4Vp6E--w) - [Altın Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT?si=_UGUb2RoQt2KO6GrzoSaiw)
 # 2024
+- [Vallahi Yok / Kırık Cam](https://open.spotify.com/album/2PEOvCM1cDnodVHjK7qbaF?si=Ge7QCUBXR26aWhLyyWaZkg) - [Altın Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT?si=_UGUb2RoQt2KO6GrzoSaiw)
 - [Şehirlerden Uzak](https://open.spotify.com/album/6VwhI8CEb2CQ4QqixPbPV6?si=6KdYz9XyS0awfCB1k6t5Aw) - [Jehan Barbur](https://open.spotify.com/artist/6PNzOVat5l7NQQC4lqY2Fo?si=tJnyGiuYRUe_inxVABHe8g)
 - [PA Tapes (Live At King's Head Inn, Norfolk, VA, 4/25/93)](https://open.spotify.com/album/1qbODLrkSuYIk3qgZ2Sj71?si=Jo3R5BtjQaWgWpxGHN_KmA) - [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ?si=PpZxe5QtRRitf6VsiukfDw) #live
