@@ -609,5 +609,6 @@
 # 2024
 - [Montreux '71](https://open.spotify.com/album/5Id0xyOl7d9BcE7xCzxUK7?si=63aoTWVmQp6ugqcS2awLVw) - [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf?si=AnfTqK6PQwmNPA4eRDsWQQ) #live
 - [PA Tapes (Live At King's Head Inn, Norfolk, VA, 4/25/93)](https://open.spotify.com/album/1qbODLrkSuYIk3qgZ2Sj71?si=Jo3R5BtjQaWgWpxGHN_KmA) - [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ?si=PpZxe5QtRRitf6VsiukfDw) #live
+- [Say's Flute World](https://open.spotify.com/album/0Y7P7qnn9MOhZxdij7Of1o?si=pMTacY_xRP-ejdqE3_J1aw) - [Fazıl Say](https://open.spotify.com/artist/15NSFL63oPhmpXLcZHny2N?si=-X4wh74PTPmtpkVJb_ngSA)
 - [Şehirlerden Uzak](https://open.spotify.com/album/6VwhI8CEb2CQ4QqixPbPV6?si=6KdYz9XyS0awfCB1k6t5Aw) - [Jehan Barbur](https://open.spotify.com/artist/6PNzOVat5l7NQQC4lqY2Fo?si=tJnyGiuYRUe_inxVABHe8g)
 - [Vallahi Yok / Kırık Cam](https://open.spotify.com/album/2PEOvCM1cDnodVHjK7qbaF?si=Ge7QCUBXR26aWhLyyWaZkg) - [Altın Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT?si=_UGUb2RoQt2KO6GrzoSaiw)
