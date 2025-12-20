@@ -615,3 +615,4 @@
 - [Vallahi Yok / Kırık Cam](https://open.spotify.com/album/2PEOvCM1cDnodVHjK7qbaF?si=Ge7QCUBXR26aWhLyyWaZkg) - [Altın Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT?si=_UGUb2RoQt2KO6GrzoSaiw)
 # 2025
 - [NEFS](https://open.spotify.com/album/31ZSrjbYkgaTAAYXQ0iYsF?si=nfhVln3rR9G0s6iklJ7m4Q) - [Jehan Barbur](https://open.spotify.com/artist/6PNzOVat5l7NQQC4lqY2Fo?si=tJnyGiuYRUe_inxVABHe8g)
+- [Shot in the Dark - Stanfort '89 KZSU](https://open.spotify.com/album/5LE9d9fWdARNm3AU4nRnwZ?si=k1_UreLcRTKvY2pub1scnA) - [Primus](https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx?si=CzNODnm9Q2-dmGgjMOA-XQ) #live
