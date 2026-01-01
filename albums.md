@@ -235,7 +235,7 @@
 - [The Hit List](https://open.spotify.com/album/2mIFpqxnoM71gHMBKlzZtM?si=VHwUI4d-SnCcp92ervP95g) - [Joan Jett](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K?si=2YjKWgijTp2EvsL6N2SCLQ)
 - [The Razors Edge](https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy?si=9HLbXa7kSLOr9QDWUAy5QQ) - [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un?si=_-rUeFn3TgO-uOKC2Spw2Q)
 # 1991
-- [Dostlar Tiyatrosu Konseri](https://open.spotify.com/album/24hgjfQ7qNSEn0tWrc9jh7?si=qlg6y7bZQbenZ0rR887Qog) - [Ruhi Su](https://open.spotify.com/artist/5DmyXzZgwTmnHVsNtlb4bl?si=7E_fCjF-RXOyW_TaxuvQTg), [Sümeyra](https://open.spotify.com/artist/55IpHgbf4NO1dYRBHVCQvR?si=hMGgZf7URYeAXrIpsQBJSg) #favorite 
+- [Dostlar Tiyatrosu Konseri](https://open.spotify.com/album/24hgjfQ7qNSEn0tWrc9jh7?si=qlg6y7bZQbenZ0rR887Qog) - [Ruhi Su](https://open.spotify.com/artist/5DmyXzZgwTmnHVsNtlb4bl?si=7E_fCjF-RXOyW_TaxuvQTg), [Sümeyra](https://open.spotify.com/artist/55IpHgbf4NO1dYRBHVCQvR?si=hMGgZf7URYeAXrIpsQBJSg) #favorite #live
 - [Erol Evgin ile Yeniden](https://open.spotify.com/album/6wSlJfLtsUCB8bm2C3Pk5o?si=PEWPynmdRoyuXZYEd6A6JA) - [Erol Evgin](https://open.spotify.com/artist/6zzBsqAEDo53s2dSeZzWvo?si=IcVzWX3MSvWnyGOcecZ33Q)
 - [Gülümse](https://open.spotify.com/album/1m07iv4leo4aoqFs60vHCK?si=tVnC49oWQ5OnaobLvrunnw) - [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd?si=2pm3FKWmRmSHhKWd5im5UA)
 - [Haziranda Ölmek Zor / Berivan](https://open.spotify.com/album/4PrET6NgY7lx1J9I4smXmD?si=wrS73wdDTxK6dnoGiuLg-w) - [Grup Yorum](https://open.spotify.com/artist/4FjxqqOXKI1eGLrYn3GUq4?si=IBbpL1DvTM2HjcyiKerJ3g)
@@ -268,7 +268,7 @@
 - [İstavrit](https://open.spotify.com/album/4DVIl6tLrWtTGq61cIHXwl?si=s_NdZwnwQp-c4NIGaTFQ7g) - [Ezginin Günlüğü](https://open.spotify.com/artist/6WDnC2nx6hEPdtcU2LLGtE?si=UbCUL23JSyiDX9VJQ5T5GA) #favorite 
 - [Pir Sultan'dan Nesimi'ye Anadolu Türküleri](https://open.spotify.com/album/7Mk9foUIVIznEyIO5NLLyU?si=tq89bkOsQV-2Vm6MAFWdew) - [Kızılırmak](https://open.spotify.com/artist/5cDUlytjN75pqIgA5UOUHR?si=pRocOR_NRVKV5HTIPxua_Q)
 - [Pork Soda](https://open.spotify.com/album/33kPJ8JFTSNiOUvpFd24pG?si=iKxU1wOdQamdMsk4Xv63bA) - [Primus](https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx?si=CzNODnm9Q2-dmGgjMOA-XQ)
-- [Theme from Schindler's List (Music from the Original Motion Picture Soundtrack)](https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8?si=bsOAd2cHSFi5-cLw5Sjp0Q) - [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb?si=PGYCumaiQcmWd3isK1_ZlQ)
+- [Theme from Schindler's List (Music from the Original Motion Picture Soundtrack)](https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8?si=bsOAd2cHSFi5-cLw5Sjp0Q) - [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb?si=PGYCumaiQcmWd3isK1_ZlQ) #soundtrack
 - [Tata Kazika](https://open.spotify.com/album/2pn7fRGG48soQ6gkfN2Sy9?si=5RhFJHuFTAGyc__duevNOw) - [Kult](https://open.spotify.com/artist/3QrpmDKMmvcSUTHH8xED93?si=-TvumGRQTEKtRyx0YuYrEg)
 - [Tedirgin](https://open.spotify.com/album/65KTmNGeDoPSRp9uBMZz5L?si=VpEYNzcSQFy8NYGTlVdd4A) - [Ahmet Kaya](https://open.spotify.com/artist/1Y2FwScblyMxpLTrNdfwyU?si=ejXpHTknTh-Tx4-kySC3_Q)
 - [Undertow](https://open.spotify.com/album/3Esn6LoXuWtLZNYq8FCzr0?si=kRfowoLAS7qIQsFL3R1fGQ) - [Tool](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8?si=OEagEBjMST-aMDYfE5Uawg)
@@ -352,7 +352,7 @@
 - [Joker](https://open.spotify.com/album/6IMpjk4oYcCHPjfm72CcjI?si=eWn05woXRyu8bT9pU8tFRg) - [Mirkelam](https://open.spotify.com/artist/7o8wIiSHxNMlXrtR1OWPH0?si=LqEM-Zb5Rsu0-K_FcgdWGQ)
 - [Karşılama](https://open.spotify.com/album/4VOf3ljoIZDRoy1YT2W1xd?si=JpRCMDwKSSue4VS-0KKv_A) - [Brenna MacCrimmon](https://open.spotify.com/artist/0zlAVWtDZKoSfDQprOg07y?si=dpeLa0q-R_2gyCVQxbeWcQ), [Selim Sesler](https://open.spotify.com/artist/1H4RsM1SDZVGLVli80d3sd?si=J-BCNY6OSdGELONA1BUmQA) #favorite 
 - [Kırmızı Buğday](https://open.spotify.com/album/6E4ojrZKa72EsTOtQjCUKK?si=pkj6ndhVTbeXRXhbOwSvTw) - [Cengiz Özkan](https://open.spotify.com/artist/3gmRDeSq9EIPP6pFSLi3FT?si=ftfzoxJsTAKCaboEsRihwg)
-- [Konser (1964 İstanbul Canlı Konseri)](https://open.spotify.com/album/13lCOekO8bFVfO0y0gBBGd?si=gNznXDlBRumWkax2QuarkA) - [Münir Nureddin Selçuk](https://open.spotify.com/artist/34SwvNRArpQFhBMIMWiugN?si=MjnbnFQxS_W6dgIJCLawbw)
+- [Konser (1964 İstanbul Canlı Konseri)](https://open.spotify.com/album/13lCOekO8bFVfO0y0gBBGd?si=gNznXDlBRumWkax2QuarkA) - [Münir Nureddin Selçuk](https://open.spotify.com/artist/34SwvNRArpQFhBMIMWiugN?si=MjnbnFQxS_W6dgIJCLawbw) #live #favourite
 - [Müzeyyen Senar ile "Bir Ömre Bedel"](https://open.spotify.com/album/1KzV5t8SHzZFtbfVZniIrn?si=f6_vx8GtQK2qhf_qczoXOw) - [Müzeyyen Senar](https://open.spotify.com/artist/7qMU11EGOWoOFrHlrHpbLd?si=gcq1ZKsGRQSEG20i9uUQNQ)
 - [Nefesim Nefesine](https://open.spotify.com/album/1VHXi3n1JhEr8PXQeOgP3v?si=mWELVS6jQgGpWQTW0ZBdEQ) - [Zülfü Livaneli](https://open.spotify.com/artist/3ZV2kReDeCXgw0RJaPV5wX?si=0VJDYSS8SUiOx1fuCNUMqg)
 - [Ostateczny Krach Systemu Korporacji](https://open.spotify.com/album/21Ym2UvMVgh2atYF7wVZLs?si=k2KnatxoQVmyguUTUBQPqw) - [Kult](https://open.spotify.com/artist/3QrpmDKMmvcSUTHH8xED93?si=-TvumGRQTEKtRyx0YuYrEg)
