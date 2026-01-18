@@ -617,3 +617,5 @@
 - [NEFS](https://open.spotify.com/album/31ZSrjbYkgaTAAYXQ0iYsF?si=nfhVln3rR9G0s6iklJ7m4Q) - [Jehan Barbur](https://open.spotify.com/artist/6PNzOVat5l7NQQC4lqY2Fo?si=tJnyGiuYRUe_inxVABHe8g)
 - [Shine on You Crazy Diamond](https://open.spotify.com/album/4B1bOlJb3djUjSzrVYDAkh?si=VpLIaMCgSVmVKPS9t7IqQA) - [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9?si=y8CWJZgWRHeDzaj914UzMA) #favorite 
 - [Shot in the Dark - Stanfort '89 KZSU](https://open.spotify.com/album/5LE9d9fWdARNm3AU4nRnwZ?si=k1_UreLcRTKvY2pub1scnA) - [Primus](https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx?si=CzNODnm9Q2-dmGgjMOA-XQ) #live
+# 2026
+- [İstanbul Sessions: Mahalle](https://open.spotify.com/album/1B4L7ALfQfgBTernD45IJd?si=DZ8IVZACQ6-mt0z0PoksPw) - [İlhan Erşahin](https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT?si=h15bCUJdSWmgwmra4RBrvA), [Alp Ersönmez](https://open.spotify.com/artist/2vnmgf7oe9T4gO2FACMrLH?si=BGgMPE4TSZydWdSEMTArOg), [İzzet Kızıl](https://open.spotify.com/artist/1GZiLEPNYIJnGpx2gmrKEa?si=vvTaDrNeS5WkgJ1tPB8zEw), [Turgut Alp Bekoğlu](https://open.spotify.com/artist/6HgC52zrEuMhWkWdEmqTso?si=p_hIuX3pSu6JAupT5zmuNw)
