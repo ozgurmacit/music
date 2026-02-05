@@ -285,7 +285,7 @@
 - [La Reine Margot (Bande Originale Du Film)](https://open.spotify.com/album/783qXABxY38LEJbUb8fPYp?si=QEtCvbDdRcCFxoYD1UTPuA) - [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS?si=s57HzHMXSCGlmG-ry7Qpxw)
 - [Lâ'l](https://open.spotify.com/album/2dg0lMD1zWdJZyC01kMLDR?si=vIfWQ-0XQGWxseLJgyHgkA) - [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s?si=CJPDyhNIScq2_GkAoe1eBA)
 - [Let Love In](https://open.spotify.com/album/0Ewp4PEIzkcAyrC463a5xF?si=PTp8A4o8S12h_HaR8cgppg) - [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q?si=TdYgI8SuRXS5HRVnLp85Uw)
-- [MTV Unplugged in New York](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr?si=U5Tsl2G3SeqC5PtF2G-O4A) - [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh?si=FLeiJbKmQ-6KCUszsN-i2A) #favorite #live 
+- [MTV Unplugged in New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7?si=owbGUpSASTCR8YWtgfcDIw) - [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh?si=FLeiJbKmQ-6KCUszsN-i2A) #favorite #live 
 - [Muj Wydafca](https://open.spotify.com/album/4ZGt5hHkbBcoJ5nLS6BDZx?si=7MX_fFKXT4CGe5N-mLyLiQ) - [Kult](https://open.spotify.com/artist/3QrpmDKMmvcSUTHH8xED93?si=-TvumGRQTEKtRyx0YuYrEg)
 - [No Need to Argue](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21?si=RdEtmY0KTVW6Cfw8DDDWmQ) - [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9?si=cJjZdZhPQ5SCrQ08H7qD4w)
 - [Şarkılarım Dağlara](https://open.spotify.com/album/5zPXhlgWpI7xafRXquq2U5?si=baIlSLAtTsu1qsv0uG9HHA) - [Ahmet Kaya](https://open.spotify.com/artist/1Y2FwScblyMxpLTrNdfwyU?si=ejXpHTknTh-Tx4-kySC3_Q)
