@@ -35,7 +35,7 @@
 - [I Got Dem Ol' Kozmic Blues Again Mama!](https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A?si=Bei4mfZ8QIqJrzjJq_Kiyg) - [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC?si=bGVN6XHuSl2w-ZGlK5uoqA)
 - [Led Zeppelin](https://open.spotify.com/album/1J8QW9qsMLx3staWaHpQmU?si=xynB42heQfSS_kI8FGXRag) - [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp?si=08L0Qp09TAOsJeakhzkgDQ) #favorite 
 - [Led Zeppelin II](https://open.spotify.com/album/58MQ0PLijVHePUonQlK76Y?si=qtopLcSaRhWLUtF1hFznIQ) - [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp?si=08L0Qp09TAOsJeakhzkgDQ)
-- [Middle Eastern Rock](https://open.spotify.com/album/22D0BeQn1cQEp7QbEE7l1z?si=OtA4FTo8R3mtj0SwHeunNw) - [John Berberian](https://open.spotify.com/artist/1EQksYbjhh6dmCmkj8Qvfk?si=TQAU6UJKQcWdhnK-0KZTeQ) and The Rock East Ensemble
+- [Middle Eastern Rock](https://open.spotify.com/album/22D0BeQn1cQEp7QbEE7l1z?si=OtA4FTo8R3mtj0SwHeunNw) - [John Berberian](https://open.spotify.com/artist/1EQksYbjhh6dmCmkj8Qvfk?si=TQAU6UJKQcWdhnK-0KZTeQ) and The Rock East Ensemble #favorite
 # 1970
 - [Atom Heart Mother](https://open.spotify.com/album/5c1ZTzT4oSkiiFS4wmEuOe?si=1tIYIO6YSRqoB5yU4wCuDA) - [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9?si=y8CWJZgWRHeDzaj914UzMA) #favorite 
 - [Band Of Gypsys](https://open.spotify.com/album/0B0Zwfcy4pAY2JAoxIEkR5?si=XkT_hMREQUWdI58FTcpAig) - [The Jimi Hendrix Experience](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4?si=Y4--5JtaSumRHf1LovcfHw)
@@ -72,7 +72,7 @@
 - [Tres Hombres](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY?si=Y8Lkcd5RRlWc_LQawIi4OQ) - [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN?si=MDsr48kdSAqUAzdXFsZjJA)
 - [Who Do We Think We Are](https://open.spotify.com/album/4xTuiyvyE5Df9JwgXjIY2y?si=ak3zsDp_Tu28DBKGZXAflg) - [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf?si=AnfTqK6PQwmNPA4eRDsWQQ) #favorite 
 # 1974
-- [At Pompeii](https://open.spotify.com/album/0ptvgHrZARlAZFmbg0WvDI?si=AZPmuPcZTROEXGAQFUZtDA) - [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9?si=y8CWJZgWRHeDzaj914UzMA) #live
+- [At Pompeii](https://open.spotify.com/album/0ptvgHrZARlAZFmbg0WvDI?si=AZPmuPcZTROEXGAQFUZtDA) - [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9?si=y8CWJZgWRHeDzaj914UzMA) #live #favorite
 - [Benimle Oynar Mısın](https://open.spotify.com/album/4lY2085XvdezeHAbLPJvp3?si=AXjy9elcTsyXpNZpIfMLvA) - [Bülent Ortaçgil](https://open.spotify.com/artist/1eY7YyYjc9jGnsHdJka906?si=uBHer_F1R8aAHmawbXCZBg) #favorite 
 - [Burn](https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9?si=NqSMuaHpT6GQCwugq-poOg) - [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf?si=AnfTqK6PQwmNPA4eRDsWQQ)
 - [Cem Karaca'nın Apaşlar, Kardaşlar, Moğollar ve Ferdy Klein'a Teşekkürleriyle](https://open.spotify.com/album/25GCGdmnWNYNuSil01Dmnh?si=DigJkenUQoCYItEyWrSddA) - [Cem Karaca](https://open.spotify.com/artist/1lIbZfJvMQRqzhtCQsg5EI?si=q-AdIOj3TPyBCuDoMOd9xw), [Apaşlar](https://open.spotify.com/artist/4yJH4Vrqxf8V96aUvENFVc?si=xaGZ2hAcS9aGFId1C1ZI7Q), [Kardaşlar](https://open.spotify.com/artist/5Nb1W1vGOBrPwwwVzjYsk6?si=Bjk8VpEpQNiHGYEoXUOtRQ), [Moğollar](https://open.spotify.com/artist/5dMPhj9s9v91MpdGNpInLy?si=7SGob4-CS1KZB6RpYsVKZw) & [Orchester Ferdy Klein](https://open.spotify.com/artist/22eEZklzkT6SqDLkgpgTpy?si=yx92lzX8T4K7DRzA62zerg)
