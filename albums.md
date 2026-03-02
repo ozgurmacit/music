@@ -554,6 +554,7 @@
 # 2014
 - [A Thousand Faces: Act 2](https://open.spotify.com/album/47QODzpz7pygOrYOPnsxNj?si=Vo1r-FCVT6CDVxO9mSFNiA) - [Beats Antique](https://open.spotify.com/artist/30DZgkaEYdezg2QMrMgrnm?si=fRBAQY3pQIWz2f_Xw2rsSA)
 - [Lazaretto](https://open.spotify.com/album/36LXzRarDP8TU8K0REGpt6?si=ZnhBxLpDQKq_wZ5VcZ78qw) - [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf?si=BRfMr8qUSTOm_EWNaHXzDQ)
+- [Türkiye Jazz Tarihinde Işıksız Kalanlar](https://open.spotify.com/album/64L4xsS3jVlDYJcfLu37IL?si=y4ZF7653TNau6izaaHi_XA) - [Özdemir Erdoğan](https://open.spotify.com/artist/691svprNZf0oJTi1L0eYy6?si=X8S0Aj7YTrip9kuSEbW65w)
 # 2015
 - [35 Urodziny](https://open.spotify.com/album/5D4acjqSRnBIHI3jmvVJYp?si=Dq8U6MNxSQKO674_Z8218w) - [Dżem](https://open.spotify.com/artist/5ADo6yIOeD8LJglejYcuen?si=C_3QaVM7RduZwwMWXyJpzw)
 - [Born to Play Guitar](https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W?si=tjBPbvYxSLiCgqyWjzmKTQ) - [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0?si=JyKaC2uHT6C_mP1TZdPoFw)
