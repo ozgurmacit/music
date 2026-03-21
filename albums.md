@@ -243,7 +243,7 @@
 - [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug?si=u0FeRMpATNeGtxw-FHP2Dg) - [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB?si=IPQKzHzyTymNi0chCPiZ6w) #favorite 
 - [Nevermind](https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk?si=50U0JJD_RBqb5v28QXGoew) - [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh?si=FLeiJbKmQ-6KCUszsN-i2A)
 - [Sailing the Seas of Cheese](https://open.spotify.com/album/2sjF68plsvYE7M3FaMf6rD?si=5hMWsesFTxK7HzYxJZo8Rw) - [Primus](https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx?si=CzNODnm9Q2-dmGgjMOA-XQ)
-- [Tek Başına Konser](https://open.spotify.com/album/2FIpzo3vMHVvXZjFPt8nPo?si=YKY6LVf_TJ2FRdkAZbi34w) - [Erkin Koray](https://open.spotify.com/artist/4o3Nv2BAyoZkyGaRXv4rT3?si=bwV9bY28Qxq1YorkcHVa9g) #favorite 
+- [Tek Başına Konser](https://open.spotify.com/album/2FIpzo3vMHVvXZjFPt8nPo?si=YKY6LVf_TJ2FRdkAZbi34w) - [Erkin Koray](https://open.spotify.com/artist/4o3Nv2BAyoZkyGaRXv4rT3?si=bwV9bY28Qxq1YorkcHVa9g) #favorite #live
 # 1992
 - [Ankara'nın Taşına Bak](https://open.spotify.com/album/2aHYGctOpSozIFsKUepAeE?si=T-jbjSgkScC7T_OoJwCNhw) - [Ruhi Su](https://open.spotify.com/artist/5DmyXzZgwTmnHVsNtlb4bl?si=7E_fCjF-RXOyW_TaxuvQTg)
 - [At Live Aid](https://open.spotify.com/album/3nG4gJT1OqZmyLh86LCwqm?si=5HxPjIoxRkeYtv3a66vEZw) - [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d?si=Gxt5lmOsSCGFBM8RQjvxzg) #live 
