@@ -214,7 +214,6 @@
 - [Darısı Başınıza](https://open.spotify.com/album/75OPZA7pZyxNraqftLNfvd?si=WrBEZMQvTgGItIie-NV00w) - [Barış Manço](https://open.spotify.com/artist/3eVuump9qyK0YCQQo4mKbc?si=ylfXcdPjR_umM0S2M13xkQ)
 - [Doolittle](https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO?si=D4k8t9wASWWXHM8FT1I_4g) - [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT?si=Z4oMEW8kQR20Rk7RWI0NOg)
 - [Gutter Ballet](https://open.spotify.com/album/6zMeDffPrKyYSBf9AuyTIF?si=d9cXs9DRQPiYsKOlOk2LEA) - [Savatage](https://open.spotify.com/artist/3N1B1g6JtIgd6ClRkzD4yT?si=jMGC5SRLRFSEOyiet0q-qg) #favorite 
-- [Hapishanelere Güneş Doğmuyor](https://open.spotify.com/album/7xgCK0h7MSx4OcE3QWMFia?si=Dn47mXx-QqO4Mc26LnSFZg) - [Neşet Ertaş](https://open.spotify.com/artist/1afML5pJuVr3ye8TGyYcV2?si=hPkZQp8mTziKKb3Q2WVZsA)
 - [Kaseta](https://open.spotify.com/album/6tQbuJjaWsIrxyR1eIqxmN?si=8ItLQjEZRT-ZsBW00B0tmA) - [Kult](https://open.spotify.com/artist/3QrpmDKMmvcSUTHH8xED93?si=-TvumGRQTEKtRyx0YuYrEg)
 - [Resitaller 1](https://open.spotify.com/album/22aeQfXJ2bXSLX92muiclD?si=rOXKnYmpR6S5Us2PbYDIPQ) - [Ahmet Kaya](https://open.spotify.com/artist/1Y2FwScblyMxpLTrNdfwyU?si=ejXpHTknTh-Tx4-kySC3_Q) #live
 - [Sezen Aksu Söylüyor](https://open.spotify.com/album/3zNJLnED8xcOFXPonunYoW?si=XhCHPMbmTuOjc98TA4rbAQ) - [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd?si=2pm3FKWmRmSHhKWd5im5UA)
