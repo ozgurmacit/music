@@ -447,6 +447,7 @@
 - [Hayde](https://open.spotify.com/album/52q8YxF44TAJQYApA3LxVl?si=9-GIEhZwSbyvGrbcEhgtzg) - [Kazım Koyuncu](https://open.spotify.com/artist/03YhQQYWzaAU3HAQAJzIHG?si=KDBxM4jUSmuokKu3KOJ3Yw) #favorite 
 - [Keçe Kurdan](https://open.spotify.com/album/56fIN66YgKYkVGVuCaF8zi?si=mioFs5VRRI6wMJhrdlbhwg) - [Aynur Doğan](https://open.spotify.com/artist/6kZvCKj0MxeLEg35TXYZDd?si=wX7pHuizQAyGAHiDo1_fQQ)
 - [Lazutlar Livera](https://open.spotify.com/album/2adguGXuVYgzby17qpVpkd?si=ZwVOpmkrR7-k9vwrBSULZg) - [Fuat Saka](https://open.spotify.com/artist/2nV0oHTtgkrV8rjV82IXei?si=eAFiF4ikRXSzdI2H7liIQQ)
+- [Les Choristes](https://open.spotify.com/album/4vpt4mDNgzAnJN3a9Uonky?si=pHHA6fCOQNiKBWf-IYRauQ)	- [Bruno Coulais](https://open.spotify.com/artist/5kjb55jtwPnbYXXDvP4x7R?si=bsDbcIjhRgmP8K_ZZdMviA)
 - [Live!](https://open.spotify.com/album/2OTNFztJPkmpn55851CuZO?si=DOv-4d86RDehThnvn0VATw) - [Senem Diyici Quartet](https://open.spotify.com/artist/4mxAViZBVTkNxvTRGHiRqY?si=doTE7SBZQ2-ywiATQfBmcg) #live 
 - [Nasibolsa](https://open.spotify.com/album/4ecMQvB4fgdA1g54HzlDKJ?si=wxUxE0CvTJWBFDy8YC1yAw) - [İsmail Hakkı Demircioğlu](https://open.spotify.com/artist/1lOYh3p1aeBWsMSZejuVEt?si=d7lBeRF8SdesaH3L7LOBWg)
 - [Neredesin Firuze](https://open.spotify.com/album/1OOepvcMhvq7ohTs9EofXe?si=MKBTguMaQP-6ShjRWe_0Ew) - Various #soundtrack 
