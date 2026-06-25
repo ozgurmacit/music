@@ -406,6 +406,7 @@
 - [Wollongong, Australia 2001/03/13](https://open.spotify.com/album/0eqJ9B9k3qxVqUlVXdX6Aa?si=SxxToU33RIGCfyecvQD2Kw) - [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf?si=AnfTqK6PQwmNPA4eRDsWQQ) #live
 - [Mutter](https://open.spotify.com/album/1CtTTpKbHU8KbHRB4LmBbv?si=6HLv6fSXQUqmOLI-pZ8ITQ) - [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP?si=TLoIqlkHR-q6h9vAY2lD2Q) #favorite 
 - [Poets and Madmen](https://open.spotify.com/album/1ktLxK67XJPdowr6y4h4xK?si=pqedVwWXSZmq1t5MZYbbqQ) - [Savatage](https://open.spotify.com/artist/3N1B1g6JtIgd6ClRkzD4yT?si=jMGC5SRLRFSEOyiet0q-qg)
+- [Reşat Aysu saz semâileri](https://open.spotify.com/album/0csKseIHu3FOs874GziEUJ?si=OVdQbZJrSZqJ7dGXEorf1A) - [Osman Nuri Özpekel](https://open.spotify.com/artist/36I388VGjjxW8N3wnkk5hJ?si=b16JS-MXRHaJSqsV-A9yxw), [Taner Sayacıoğlu](https://open.spotify.com/artist/4TXaR1eL0pdHwrkjrw3KEl?si=UB5hURmnQQWFeK0yjPqNLQ)
 - [Satılık](https://open.spotify.com/album/7Ci9Cu5I6WskhcHxxmOoaD?si=CMo6dUKRSemOysOMm61UUg) - [Yavuz Çetin](https://open.spotify.com/artist/4inwzuD2iBZK8Ck3ft7Wlk?si=4E6GS3wbRtiAHJdjTfhUHg) #favorite 
 - [Sel Gider... Kum Kalır...](https://open.spotify.com/album/0Uggge7ReR4r5bCBroKpBG?si=h1vuTNqVTNOPEqdMBYeSuA) - [Bengi Bağlama Üçlüsü](https://open.spotify.com/artist/7ogb4SkT5lFwhPiMa9gGjZ?si=HcQ8CLNORcuyAl_AO5gQ6Q) #favorite 
 - [Unspoken](https://open.spotify.com/album/041J1xymd71Pz9nbRQWg0F?si=nbgWsSgRR669RVjrsF1EVw) - [Pentagram](https://open.spotify.com/artist/1Xz8iP9Dvl5uI88iraOhs7?si=118663HGSfSFLUJ-Nq_Hug) #favorite 
