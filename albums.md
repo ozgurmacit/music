@@ -470,6 +470,7 @@
 - [Super Colossal](https://open.spotify.com/album/1uJrKo3W0dGgmSM5FBMsbE?si=adYYZ191RPKYjlqfA9s_aQ) - [Joe Satriani](https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8?si=m6B9x2FjTP2K4zfuXLGQOg)
 # 2006
 - [Aşk Tesadüfleri Sever - Mucize Ve Buluşma](https://open.spotify.com/album/5Q3EXfOt4y9MSS6FZJYA7M?si=QdGvcmgATD-5Au_jTiijQQ) - [Müslüm Gürses](https://open.spotify.com/artist/4cMwyqmHCwJjRZ3frIVHTr?si=FveREOrfSuOG0AnXpe6emw)
+- [Beyond the Wall](https://open.spotify.com/album/6DjQ7TX89X1kwQWKYUp9SR?si=5pegX7GcS62ztIFRvmVViw) - [Kenny Garrett](https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY?si=ET5UF9JyTmOyPNH5naatFg)
 - [Bulutlar Geçer](https://open.spotify.com/album/37hUR9xr9BBuarJJ0oFUbL?si=1EuE4KtxQ76Gs14vtsD9Ig) - [Feryal Öney](https://open.spotify.com/artist/4I392Ox22w5GVGe37VBjPv?si=tQ_Y0_rKTKqVr87zwjFeVg)
 - [Dog House Music](https://open.spotify.com/album/0FiUPIUuDtuYRvyEfRk4tR?si=koTlNR7oRCifH9-O2xpkVw) - [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv?si=7s5IHSj8TdaiUHf3gysHFw)
 - [Efsane Konserler](https://open.spotify.com/album/4yAHUmJL9Oo9OVeK6A9g81?si=1tlQZGG0Rra7MQfNYasJig) - [Zülfü Livaneli](https://open.spotify.com/artist/3ZV2kReDeCXgw0RJaPV5wX?si=0VJDYSS8SUiOx1fuCNUMqg) #live 
