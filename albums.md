@@ -50,6 +50,7 @@
 - [Tea for the Tillerman](https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild?si=n4_Q4ifKT7eZDJgNRB41Nw) - [Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8?si=NJK7D4eiQRKDs1toYSR62g)
 # 1971
 - [Blues](https://open.spotify.com/album/1gd3aBH5lv2tH0mEOYESFv?si=yFvazlvFSMCIBk8acFBvbQ) - [Breakout](https://open.spotify.com/artist/58QcZdfYvMMR3ErdgytWy7?si=-E-hk2KDT7alBbf0k0DPIA)
+- [Getting Ready...](https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI?si=By6vslBRTyW9z2TwkbYB_w) - [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s?si=_xT8G2R0T0e5-Zy2at2oBw)
 - [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk?si=gi5k5rP2QueIH8l4_E2iDg) - [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H?si=qgRHEGROQ-mi4_FfZxejLA)
 - [Korowód](https://open.spotify.com/album/4ILYt2i3qJFLV9eVYjfxPB?si=jq5XogiURfKEgqW9E7JePg) - [Marek Grechuta](https://open.spotify.com/artist/0MGE7m2KV6Db6jOZFy93aD?si=GZZ2GQKUTOqfyser57O1RA) / [Anawa](https://open.spotify.com/artist/6bbsYS6Md0rRnPuIUCyMZ8?si=r3R84qRxQ6OBmQ9pXEPM0w)
 - [L.A. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS?si=bWS3kjLuRqCJQj_q5Or8xQ) - [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt?si=FRG4InakQX-G3aWJF3t6Vg) #favorite 
