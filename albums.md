@@ -539,6 +539,7 @@
 - [Sevda Sitem Götürmez (Anadolu'dan Aşk Türküleri 2)](https://open.spotify.com/album/2PoQQvPi6ebogWZ3KI14Nz?si=WUKD11nwSo66SgJN4_6aag) - [Okan Murat Öztürk](https://open.spotify.com/artist/1fxGZzcaalf3YcB6wd22MY?si=gzA387GiSYe1Ia35sndGVw)
 - [You Can't Teach an Old Dog New Tricks](https://open.spotify.com/album/19NWR3uhtr9uIMIms0alvr?si=VD9I925LR9GyT9k2Nmd4NQ) - [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv?si=7s5IHSj8TdaiUHf3gysHFw)
 # 2012
+- [Brothers](https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj?si=CUatufzzSeqeO1sTqNnmsg) - [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz?si=tI7KdbmRQpOulNPWeta7xw)
 - [Checkerboard Lounge (Live, Chicago 1981)](https://open.spotify.com/album/0SLzwxGYeOdJYbjxbE9plW?si=_wnpNzwmT2KZBohBwQuRpg) - [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R?si=Zc55rHeARpC608Fy4ScYqA), [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe?si=w-Yx4vTEQ4GAIQLPPcc1DA) #live #favorite 
 - [Dönmez Yol](https://open.spotify.com/album/2OYUQsKSOglrXK0UNyAX8k?si=ZG5Nn4sySQKmdjQ_VJkeqw) - [Erkan Oğur](https://open.spotify.com/artist/7HIccJjwPhWkLVKu0gGJgB?si=40ourCWtQF67d5huCfZ9lQ)
 - [Live at River Plate](https://open.spotify.com/album/4H6JMsvxmh0U7VBYiWiyLa?si=Ej2BoJmoRpurYeDkYuOLXQ) - [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un?si=_-rUeFn3TgO-uOKC2Spw2Q) #live
