@@ -46,6 +46,7 @@
 - [John Lennon / Plastic Ono Band](https://open.spotify.com/album/0DFYbYCcHCEJPcN1hODG6K?si=-Kj0oBEPSAu2bHpAyZ8ZEA) - [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H?si=qgRHEGROQ-mi4_FfZxejLA)
 - [Led Zeppelin III](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut?si=dgMCucSoRSGLRPaHOBgWrw) - [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp?si=08L0Qp09TAOsJeakhzkgDQ)
 - [Live](https://open.spotify.com/album/6wp4pcyec1beOkGXJERKse?si=m9qZG8qpSsOQhqhDQa8_xA) - [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m?si=jWOijGaoQyWMIoC8B3AINw) #live 
+- [Lizard](https://open.spotify.com/album/4vvx8uOeJE7YR4tORVtYV4?si=tK2vSBfyQHyU2XzJH9iMJA) - [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi?si=cCiiGpDPSO-T95ot1MVDqg)
 - [Mona Bone Jakon](https://open.spotify.com/album/2XXF6pODroMYQ3qPmXeMB1?si=Mvt2FgviQXqpV743Zfuusg) - [Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8?si=NJK7D4eiQRKDs1toYSR62g)
 - [Paranoid](https://open.spotify.com/album/5IvnJVJAWgm1agSGTFxdGb?si=_anu2H8qSqeRIHSJ37EL0A) - [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ?si=hswQBlq5S_uAL-xH1XvVQQ)
 - [Tea for the Tillerman](https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild?si=n4_Q4ifKT7eZDJgNRB41Nw) - [Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8?si=NJK7D4eiQRKDs1toYSR62g)
