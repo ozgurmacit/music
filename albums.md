@@ -58,6 +58,7 @@
 - [Korowód](https://open.spotify.com/album/4ILYt2i3qJFLV9eVYjfxPB?si=jq5XogiURfKEgqW9E7JePg) - [Marek Grechuta](https://open.spotify.com/artist/0MGE7m2KV6Db6jOZFy93aD?si=GZZ2GQKUTOqfyser57O1RA) / [Anawa](https://open.spotify.com/artist/6bbsYS6Md0rRnPuIUCyMZ8?si=r3R84qRxQ6OBmQ9pXEPM0w)
 - [L.A. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS?si=bWS3kjLuRqCJQj_q5Or8xQ) - [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt?si=FRG4InakQX-G3aWJF3t6Vg) #favorite 
 - [Led Zeppelin IV](https://open.spotify.com/album/5EyIDBAqhnlkAHqvPRwdbX?si=0xRyccpKTdOoyS7bi5Ew6w) - [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp?si=08L0Qp09TAOsJeakhzkgDQ)
+- [Maggot Brain](https://open.spotify.com/album/3ywVzrwMQ3Kq43N9zBdBQm?si=doB0X5PNRnC_wzfVz2mM1Q) - [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru?si=K69oJHESQ7-2avmFcVumfg)
 - [Master of Reality](https://open.spotify.com/album/3kBG6q0aXKxzn01wKTwZr5?si=ZXglRnR7Sm6E6Q2TnPMbrA) - [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ?si=hswQBlq5S_uAL-xH1XvVQQ)
 - [Meddle](https://open.spotify.com/album/7yKRvvqspSxfLkr7C7RaAI?si=yUik60NYQNupUeFqIdvBbA) -  [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9?si=y8CWJZgWRHeDzaj914UzMA)
 - [Pearl](https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf?si=QgGYVVbsSByIOJB2IR-43Q) - [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC?si=bGVN6XHuSl2w-ZGlK5uoqA)
