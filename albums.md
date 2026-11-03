@@ -610,6 +610,7 @@
 - [Terminal Velocity](https://open.spotify.com/album/0ThCSFfHT7zTobzMoDH4vu?si=iTkxwUZ4TTW-WiHKWO6gSA) - [John Petrucci](https://open.spotify.com/artist/4zvIE8a1h7L0IED4r4qKk1?si=cx5OrSPuTHuYquQ99RNrEg) #favorite 
 - [The Best of Tommysongs](https://open.spotify.com/album/6TQi8KKUIRgoMtIx5bsa4k?si=oEIzlOBlRSeZrDE0RH8cJw) - [Tommy Emmanuel](https://open.spotify.com/artist/6HjfVflhYjbu6PSIsFOjwM?si=8V40KCRqSj61U0oCBVzI_g)
 # 2021
+- [Dost 1](https://open.spotify.com/album/2tD4hA5ynRsPiQmrAUPxAe?si=ieNOE7Y3T2ysbg9jljv9WQ) - [Derya Yıldırım & Grup Şimşek](https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT?si=aAq_c0H-QUm6_u2k-YPd1Q)
 - [Yol](https://open.spotify.com/album/2KWjneqCyMbvEvp7QayR2l?si=p49e5saqQnelLh0fO1my2g) - [Altın Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT?si=_UGUb2RoQt2KO6GrzoSaiw)
 # 2022
 -  [Akustik Konser](https://open.spotify.com/album/0cyUrm3mTy5nFumSeIQU3I?si=vFT9jl90TUC8TTiIwirtCw) - [Pentagram](https://open.spotify.com/artist/1Xz8iP9Dvl5uI88iraOhs7?si=118663HGSfSFLUJ-Nq_Hug) #live
