@@ -596,6 +596,7 @@
 - [Bohemian Rhapsody (The Original Soundtrack)](https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE?si=B9lPXuKhRZCi23g8oP_KPw) - [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d?si=Gxt5lmOsSCGFBM8RQjvxzg) #soundtrack 
 - [Hago](https://open.spotify.com/album/6LTpvFbRJoVZVQeo3GrFuF?si=uuExaBHXQvuhAMwqHmTVTQ) - [Hago](https://open.spotify.com/artist/6n1EPAxyqyOrKv7Wu4fenf?si=k-WWWGbuQDSz3ErLDVyXdw)
 - [Hush](https://open.spotify.com/album/3KAu4OtRzdAn62lw4vJnnl?si=PTGC_-PmT0yAG0JC2v_6ww) - [Mircan Kaya](https://open.spotify.com/artist/21Bj5H9sSwheqVpDCKY31y?si=phICdRt0RV6mWy0zS_RDvA)
+- [İstikrarlı Hayal Hakikattir](https://open.spotify.com/album/0EQpi8FBrIPXGT4ywB7cZS?si=eKQG7HxVRmCf169sdH5LYA) - [Gaye Su Akyol](https://open.spotify.com/artist/0VsS7WKuNEsKGNIWuiwSyZ?si=OFISOuAfRYWYNtvAKWqAww)
 - [Kırmızı Gül](https://open.spotify.com/album/2ieBmnQlUyBRG9b3SzdbJU?si=BSfMTgD5Tca9EjzvodB_-Q) - [Mircan Kaya](https://open.spotify.com/artist/21Bj5H9sSwheqVpDCKY31y?si=phICdRt0RV6mWy0zS_RDvA), [Merih Aşkın](https://open.spotify.com/artist/0V2qHmXZuwl5HchfX9Hvqr?si=0w5qRtIWScGfXjtkq10Fhg)
 - [On](https://open.spotify.com/album/6AmmrlB9qABCgBdr8SCLZt?si=iB3KedI2SwOguUcvz5WJ0w) - [Altın Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT?si=_UGUb2RoQt2KO6GrzoSaiw)
 - [Sex, Dope & Cheap Thrills](https://open.spotify.com/album/4N7y4HQ7xtfmLab22gqef1?si=rt_AjpzASVuU-CTTCSelfg) - [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo?si=Ng_CRPmwQ2it89D2UUfiQQ)
