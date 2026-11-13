@@ -64,6 +64,7 @@
 - [Pearl](https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf?si=QgGYVVbsSByIOJB2IR-43Q) - [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC?si=bGVN6XHuSl2w-ZGlK5uoqA)
 - [Teaser and the Firecat](https://open.spotify.com/album/7ez8WRX4sGhKHZryJPJCNg?si=SBit8WbNRC6SVRUxpuhnJQ) - [Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8?si=NJK7D4eiQRKDs1toYSR62g)
 # 1972
+- [Argus](https://open.spotify.com/album/7xEluvnbmFtRB5g66CJ2ND?si=J_6p7McfSbWo8UVnaSYTaw) - [Wishbone Ash](https://open.spotify.com/artist/77zwstbi3x1IxnbDFg6uns?si=1gRTcO_ySy2Yu-8-wkZT9A)
 - [Dr. John's Gumbo](https://open.spotify.com/album/15jDv2HgLoilWgd4KWaLQn?si=xMkGDvycThieOjROYU1vvQ) - [Dr. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO?si=e3dy_iw8ROS_MhggyH3awA)
 - [Full Circle](https://open.spotify.com/album/26Fac6kNgB6MLeoGVkmpKN?si=6YpHtQxfQyaFF7IE88yi0w) - [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt?si=FRG4InakQX-G3aWJF3t6Vg)
 - [Keine Macht für Niemand](https://open.spotify.com/album/0X1W7xz2jdfuoGKZgxMR2l?si=fycmCDG1TQeZlNZWhMD9Sw) - [Ton Steine Scherben](https://open.spotify.com/artist/6qt7HAbdjQ4a2B0sYAjySO?si=mf5nwIlHRPqBkv0dqT4xrg)
