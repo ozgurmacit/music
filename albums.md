@@ -569,6 +569,7 @@
 - [Push the Sky Away](https://open.spotify.com/album/6CBN58EXbkJ7lIxvmLUxVA?si=zryXWQZYSS2Hcp2meUm9lw) - [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q?si=TdYgI8SuRXS5HRVnLp85Uw)
 # 2014
 - [A Thousand Faces: Act 2](https://open.spotify.com/album/47QODzpz7pygOrYOPnsxNj?si=Vo1r-FCVT6CDVxO9mSFNiA) - [Beats Antique](https://open.spotify.com/artist/30DZgkaEYdezg2QMrMgrnm?si=fRBAQY3pQIWz2f_Xw2rsSA)
+- [Blues Pills](https://open.spotify.com/album/5dbhucEeefL6aD02F3S7YC?si=vgROKpE0T6C2Cf_fhaFPNA) - [Blues Pills](https://open.spotify.com/artist/2lmQ4CUnjmLIIfnwZdRmMY?si=YGfdbTEWSTalfFzhrLRbyQ)
 - [Lazaretto](https://open.spotify.com/album/36LXzRarDP8TU8K0REGpt6?si=ZnhBxLpDQKq_wZ5VcZ78qw) - [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf?si=BRfMr8qUSTOm_EWNaHXzDQ)
 - [Türkiye Jazz Tarihinde Işıksız Kalanlar](https://open.spotify.com/album/64L4xsS3jVlDYJcfLu37IL?si=y4ZF7653TNau6izaaHi_XA) - [Özdemir Erdoğan](https://open.spotify.com/artist/691svprNZf0oJTi1L0eYy6?si=X8S0Aj7YTrip9kuSEbW65w)
 # 2015
