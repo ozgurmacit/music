@@ -3,6 +3,7 @@
 - [The Wildest Show at Tahoe](https://open.spotify.com/album/4yb8RdbHQQpL4gycKLxx4g?si=fW_2AYe7RwmGydgv-NOaKw) - [Louis Prima](https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW?si=cHJ_H7jKTAGRCAutIckLZQ) with [Keely Smith](https://open.spotify.com/artist/0vQqxnQk1G32RtjSAFq3z1?si=kzjyFKIlRgSwxwjpZF3e-Q) & [Sam Butera and the Witnesses](https://open.spotify.com/artist/70njzKgLbLbWkCPhKEu2oV?si=eXHTyy7vR5mfnlXo8NIwSw) 
 # 1959
 - [Berry Is on Top](https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL?si=DGqLfSMvQt-6d8jad78wGw) - [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR?si=zPSW2u91R4SHKqcMEGcMvw)
+- [Mingus Ah Um](https://open.spotify.com/album/4Z8nWz3dGybOP7lhMZpcOo?si=VuxArLFqRLSDPCrI4dHvnQ) - [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H?si=VkibvyKMTvOqhsdCUzRIjA)
 # 1961
 - [My Kind of Blues](https://open.spotify.com/album/7kNeq4xNzhFeHF9ZMnt6ka?si=9aRYcWsNT8Gs2A9CHkCDRw) - [B.B. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U?si=XVJk1xhWSKmyptoKiSPXgg)
 # 1963
