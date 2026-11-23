@@ -4,6 +4,7 @@
 # 1959
 - [Berry Is on Top](https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL?si=DGqLfSMvQt-6d8jad78wGw) - [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR?si=zPSW2u91R4SHKqcMEGcMvw)
 - [Mingus Ah Um](https://open.spotify.com/album/4Z8nWz3dGybOP7lhMZpcOo?si=VuxArLFqRLSDPCrI4dHvnQ) - [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H?si=VkibvyKMTvOqhsdCUzRIjA)
+- [Time Out](https://open.spotify.com/album/6P3jzdPK5VMbzuJ2HcRt9y?si=CZGVFue8RJO_12rnEEDdCQ) - [The Dave Bruback Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7?si=O8mH0G9fSqaJG-q4n8YJtg) #favourite
 # 1961
 - [My Kind of Blues](https://open.spotify.com/album/7kNeq4xNzhFeHF9ZMnt6ka?si=9aRYcWsNT8Gs2A9CHkCDRw) - [B.B. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U?si=XVJk1xhWSKmyptoKiSPXgg)
 # 1963
